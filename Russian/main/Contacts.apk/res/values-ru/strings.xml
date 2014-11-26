@@ -469,7 +469,7 @@
     <string name="menu_help">Справка</string>
     <string name="preference_displayOptions">Варианты отображения</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
-    <string name="hint_findContacts">Найти контакты</string>
+    <string name="hint_findContacts">Найти контакт</string>
     <string name="non_phone_caption">Номер телефона</string>
     <string name="non_phone_add_to_contacts">Добавить в контакты</string>
     <string name="activity_title_confirm_add_detail">Добавление данных</string>
@@ -856,7 +856,7 @@
     <string name="set_voicemail">Установить голосовую почту</string>
     <string name="dialog_voicemail_not_ready_message2">Голосовая почта не установлена, хотите установить?</string>
     <string name="contact_is_gone">Контакт был удален, невозможно сохранить</string>
-    <string name="menu_timeContact">История времени общения</string>
+    <string name="menu_timeContact">История общения</string>
     <string name="menu_timeRevert">Вначале давние</string>
     <string name="menu_timeSequnce">Вначале недавние</string>
     <string name="menu_timeClear">Сбросить время последнего вызова</string>
@@ -1032,12 +1032,12 @@
     <string name="message_detail_card_indicator_out">Сообщение отправленно через SIM-карту %s</string>
     <string name="message_detail_card_indicator_in">Сообщение полученно через SIM-карту %s</string>
     <string name="pref_title_manage_double_sim_messages">Управление сообщениями на SIM-картах</string>
-    <string name="pref_summary_manage_double_sim_messages">Управление сообщениями, хранящимися на SIM-картах</string>
-    <string name="pref_summary_manage_card1_messages">Управление сообщениями, хранящимися на SIM-карте 1</string>
+    <string name="pref_summary_manage_double_sim_messages">Сообщения сохраненные на SIM-картах</string>
+    <string name="pref_summary_manage_card1_messages">Сообщения на SIM-карте 1</string>
     <string name="pref_title_manage_card1_messages">Управление сообщениями на SIM-карте 1</string>
-    <string name="pref_summary_manage_card2_messages">Управление сообщениями, хранящимися на SIM-карте 2</string>
+    <string name="pref_summary_manage_card2_messages">Сообщения на SIM-карте 2</string>
     <string name="pref_title_manage_card2_messages">Управление сообщениями на SIM-карте 2</string>
-    <string name="manage_multi_card_ui_title">Управление сообщениями, хранящимися на SIM-картах</string>
+    <string name="manage_multi_card_ui_title">Управление сообщениями на SIM-картах</string>
     <string name="pref_title_notification_card1_ringtone">Звук для SIM-карты 1</string>
     <string name="pref_title_notification_card2_ringtone">Звук для SIM-карты 2</string>
     <string name="copy_sms_to_card">Копировать на SIM-карту</string>
