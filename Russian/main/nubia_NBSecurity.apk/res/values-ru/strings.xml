@@ -450,7 +450,7 @@
     <string name="intercept_stranger">Перехват незнакомых</string>
     <string name="intercept_rule">Правило блокировки</string>
     <string name="intercept_incoming">Перехват только входящих</string>
-    <string name="intercept_stranger_tips">The stranger calls marker tips</string>
+    <string name="intercept_stranger_tips">Подсказка маркировки неизвестных номеров</string>
     <string name="harass_image_button_one">Один</string>
     <string name="harass_image_button_two">Два</string>
     <string name="harass_image_button_three">Три</string>
