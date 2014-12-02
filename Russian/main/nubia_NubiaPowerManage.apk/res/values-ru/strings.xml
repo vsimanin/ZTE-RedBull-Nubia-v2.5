@@ -63,7 +63,7 @@
     <string name="gpu_auto_optimize_summary">Снижение энергопотребления GPS, мобильной сети и игровой графики для максимального времени использования</string>
     <string name="manual_set_optimize">Ручная оптимизация</string>
     <string name="gps_optimize">Оптимизация GPS</string>
-    <string name="webpage_scan_optimize">Оптимизация веб-сёрфинга</string>
+    <string name="webpage_scan_optimize">Оптимизация веб-браузера</string>
     <string name="game_fps_optimize">Оптимизация FPS в играх</string>
     <string name="game_fps_low">Низкий</string>
     <string name="game_fps_normal">Средний</string>
