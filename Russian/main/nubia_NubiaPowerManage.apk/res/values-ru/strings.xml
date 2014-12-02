@@ -68,7 +68,7 @@
     <string name="game_fps_low">Низкий</string>
     <string name="game_fps_normal">Средний</string>
     <string name="game_fps_high">Высокий</string>
-    <string name="game_fps_summary">Чем выше уровень оптимизации, тем дольше время работы без подзарядки.</string>
+    <string name="game_fps_summary">Чем выше уровень оптимизации, тем меньше энергопотребление GPU.</string>
 	<string name="open_power_lower_percent">При заряде батареи меньше %1$s%% производится автоматическое изменение на %2$s</string>
     <string name="lowpower_auto_save_close">Отключено</string>
     <string name="timing_powermode_enable">от %1$s до %2$s %3$s включен</string>
