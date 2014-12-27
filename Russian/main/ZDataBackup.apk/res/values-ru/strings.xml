@@ -132,6 +132,9 @@
     <string name="ui_restoring_activity_stop_restore_msg">Восттановление не завершено, вы действительно хотите его остановить?</string>
     <string name="ui_restoring_activity_more_target_device">Выбрано слишком много устройств</string>
     <string name="ui_restoring_activity_record_not_exists">Целевая копия не существует</string>
+    <string name="ui_restoring_activity_complete">Успешно восстановлено</string>
+    <string name="ui_restoring_activity_fail">Ошибка восстановления</string>
+    <string name="ui_resotring_activity_end">Восстановление завершено</string>
     <string name="ui_show_space_info_activity_title">Память</string>
     <string name="ui_show_space_info_activity_backup_dir">Папка копии</string>
     <string name="ui_show_space_info_activity_memory">Информация о памяти:</string>
