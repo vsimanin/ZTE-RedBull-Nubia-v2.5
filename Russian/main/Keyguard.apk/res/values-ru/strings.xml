@@ -62,7 +62,7 @@
     <string name="keyguard_accessibility_pin_unlock">PIN-код</string>
     <string name="keyguard_accessibility_password_unlock">Пароль</string>
     <string name="keyguard_accessibility_pattern_area">Область ввода графического ключа</string>
-    <string name="keyguard_accessibility_slide_area">Область слайдера</string>
+    <string name="keyguard_accessibility_slide_area">Область свайпа</string>
     <string name="keyguard_accessibility_transport_prev_description">Кнопка перехода к предыдущему треку</string>
     <string name="keyguard_accessibility_transport_next_description">Кнопка перехода к следующему треку</string>
     <string name="keyguard_accessibility_transport_pause_description">Кнопка паузы</string>
