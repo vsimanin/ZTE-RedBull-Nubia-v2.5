@@ -2430,8 +2430,9 @@ It не стирать :
     <string name="additional_bootanimation_info_title">Информация о загрузочной анимации</string>
     <string name="insert_erro">Ошибка</string>
     <string name="contacts_app_exist">Убедитесь в наличии приложения Контакты!</string>
+    <string name="special_thank">Благодарности</string>
     <string name="font_size_example">"
-Это пример теста на размер шрифта"</string>
+Это пример размера шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
     <string name="font_size_ok">OK</string>
     <string name="summary_font_size_v5">Установки затронут телефон, сообщения, контакты и настройки</string>

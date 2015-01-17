@@ -96,7 +96,7 @@
     <string name="ringtone_menu_short">Мелодия звонка</string>
     <string name="search_title">Поиск</string>
     <string name="search_tip">Введите ключевое слово для поиска</string>
-    <string name="search_text_hint">Введите название песни, имя исполнителя или альбома</string>
+    <string name="search_text_hint">Введите название песни, альбома или исполнителя</string>
     <string name="delete_item">Удалить</string>
     <string name="ringtone_set">\"%s\" установлена на звонок.</string>
     <string name="create_playlist_create_text">Готово</string>

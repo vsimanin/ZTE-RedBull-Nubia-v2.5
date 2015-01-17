@@ -24,9 +24,9 @@
         <item quantity="one">Загрузка альбома для офлайн-доступа</item>
     </plurals>
     <plurals name="number_of_items_moved">
-        <item quantity="other">%1$d удалено</item>
-        <item quantity="zero">%1$d удалено</item>
-        <item quantity="one">%1$d удалено</item>
+        <item quantity="other">%1$d перемещено</item>
+        <item quantity="zero">%1$d перемещено</item>
+        <item quantity="one">%1$d перемещено</item>
     </plurals>
     <plurals name="number_of_items_gifed">
         <item quantity="other">OK (%1$d)</item>
