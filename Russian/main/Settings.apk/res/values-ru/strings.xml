@@ -2843,4 +2843,6 @@ It не стирать :
     <string name="wifi_display_resume">Возобновить</string>
     <string name="wifi_display_session_info">Информация о сессии</string>
     <string name="wifi_display_wps_config">Конфигурация WPS</string>
+	<string name="special_thank">Особая благодарность</string>
+	<string name="hornor_test_number">Участники nubia ROM beta-группы</string>	
 </resources>
