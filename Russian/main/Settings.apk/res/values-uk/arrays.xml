@@ -447,4 +447,23 @@
         <item>\#FF5500FF</item>
         <item>\#FFAA00AA</item>
     </string-array>
+	<string-array name="honor_test_member_entries">
+		<item>Rockzill</item> 
+		<item>Masslakoff</item>
+		<item>LiveMoto</item>
+		<item>IvvaNGrigO</item>
+		<item>DEMONTER007</item>
+		<item>roky_rs</item>
+		<item>im190610</item>
+		<item>AMSUser</item>
+		<item>rualvik</item>
+		<item>lexey77</item>
+		<item>proDOOMman</item>
+		<item>NFound</item>
+		<item>axelvo</item>
+		<item>ultimatum163</item>
+		<item>Buslik</item>
+		<item>BurgerZ</item>
+		<item>и многие другие с 4pda</item> 
+	</string-array>	
 </resources>

@@ -2445,4 +2445,6 @@
     <string name="eq_rb">R &amp; B</string>
     <string name="eq_rock">Рок</string>
     <string name="antispam_quiet_mode_title">Не турбувати</string>
+	<string name="special_thank">Особлива подяка</string> 
+	<string name="hornor_test_number">Учасники nubia ROM beta-групи</string> 	
 </resources>
