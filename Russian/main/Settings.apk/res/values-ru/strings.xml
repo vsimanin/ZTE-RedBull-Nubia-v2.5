@@ -2431,6 +2431,7 @@ It не стирать :
     <string name="insert_erro">Ошибка</string>
     <string name="contacts_app_exist">Убедитесь в наличии приложения Контакты!</string>
     <string name="special_thank">Благодарности</string>
+    <string name="hornor_test_number">Группа тестирования nubia ROM</string>
     <string name="font_size_example">"
 Это пример размера шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
