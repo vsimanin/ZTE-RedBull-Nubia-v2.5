@@ -161,16 +161,16 @@
     <string name="roaming_disable">Підключатися до служб передачі даних в роумінгу</string>
     <string name="roaming_reenable_message">Передача даних припинена, тому що телефон знаходиться за межами домашньої мережі, а інтернет-роумінг вимкнений</string>
     <string name="roaming_warning">Дозволити інтернет-роумінг? Можливі високі витрати за використання роумінгу</string>
-    <string name="gsm_umts_options">Параметри GSM / UMTS</string>
+    <string name="gsm_umts_options">Параметри GSM/UMTS</string>
     <string name="cdma_options">Параметри CDMA</string>
     <string name="throttle_data_usage">Передача даних</string>
     <string name="throttle_current_usage">Передача даних в поточному періоді</string>
     <string name="throttle_time_frame">Час передачі даних</string>
     <string name="throttle_rate">Швидкість передачі даних</string>
     <string name="throttle_help">Детальніше</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d%) з %3$s (максимум)
-Наступний період почнеться протягом %4$d дн. (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d%) з %3$s (максимум)</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум)
+        Наступний період почнеться протягом %4$d дн. (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
     <string name="throttle_data_rate_reduced_subtext">"Перевищено ліміт в %1$s.
 Швидкість передачі даних знижена до %2$d кбіт/с. "</string>
     <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
