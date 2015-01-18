@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_title_items">
+        <item>Моё облако Baidu</item>
+        <item>Видео</item>
+        <item>Музыка</item>
+        <item>Изображения</item>
+        <item>Документы</item>
+        <item>Приложения</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
