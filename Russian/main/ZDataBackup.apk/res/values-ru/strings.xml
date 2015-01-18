@@ -446,4 +446,11 @@
     <string name="net_warning">Сетевое напоминание</string>
     <string name="net_not_backup">Облако резервных копий не работает</string>
     <string name="net_backup">Продолжить в облаке резервных копий</string>
+    <string name="cloud_space_info">Сетевое хранилище:</string>
+    <string name="data_downloading">Загрузка данных</string>
+    <string name="ui_mainactivity_account_info">Учетная запись</string>
+    <string name="baidu_account_check_info">Проверьте авторизацию в Baidu</string>
+    <string name="check_network_status">Проверьте подключение к сети</string>
+    <string name="check_baidu_apk">Установите Baidu NetDisk</string>
+    <string name="no_nubia_account_found">Войдите в аккаунт Nubia</string>
 </resources>
