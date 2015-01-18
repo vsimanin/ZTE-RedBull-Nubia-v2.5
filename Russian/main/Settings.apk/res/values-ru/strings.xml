@@ -2605,6 +2605,7 @@ It не стирать :
     <string name="wifi_check_addnetwork_message">"Не найдено сетей поблизости
 %1$s"</string>
     <string name="wifi_check_addnetwork_working">Добавлена сеть %1$s</string>
+    <string name="wifi_cert_mamg_title">Управление сертификатами</string>
     <string name="wifi_display_resolution_option">Разрешения</string>
     <string name="wfd_option_qr_code">QR код</string>
     <string name="wfd_option_settings">Настройки</string>
