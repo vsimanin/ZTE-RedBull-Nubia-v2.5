@@ -178,7 +178,7 @@
     <string name="backup_label_not_yet_upload">Не загружено(%1$s)</string>
     <string name="type_backup_label_upload">Загружено(%1$s)</string>
     <string name="type_all">全部</string>
-    <string name="file_all_upload">Все файлы загружены в nubia-Облако/string>
+    <string name="file_all_upload">Все файлы загружены в Облако nubia</string>
     <string name="go_ahead">Продолжить</string>
     <string name="upload_failed">Не удалось загрузить (%1$s)</string>
     <string name="uploading">Загрузка (%1$s)</string>
