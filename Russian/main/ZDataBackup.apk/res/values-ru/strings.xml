@@ -444,8 +444,8 @@
     <string name="dialog_no_btn">Отмена</string>
     <string name="net_content_mobile_back">Телефон не подключен к Wi-Fi сети, облако резервного копирования будет использовать мобильную сеть передачи данных, что приведет к расходу трафика. Рекомендуется подключиться к Wi-Fi, перед началом загрузки!</string>
     <string name="net_warning">Сетевое напоминание</string>
-    <string name="net_not_backup">Облако резервных копий не работает</string>
-    <string name="net_backup">Продолжить в облаке резервных копий</string>
+    <string name="net_not_backup">Не подключаться к облаку</string>
+    <string name="net_backup">Продолжить соединение с облаком</string>
     <string name="cloud_space_info">Сетевое хранилище:</string>
     <string name="data_downloading">Загрузка данных</string>
     <string name="ui_mainactivity_account_info">Учетная запись</string>
