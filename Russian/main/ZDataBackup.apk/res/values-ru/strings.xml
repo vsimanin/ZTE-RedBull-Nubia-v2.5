@@ -52,7 +52,7 @@
     <string name="backup_item_calendar_title">Календарь</string>
     <string name="backup_item_note_title">Записи</string>
     <string name="backup_item_settings_title">Настройки</string>
-    <string name="backup_item_launcher_title">Ланчер</string>
+    <string name="backup_item_launcher_title">Рабочий стол</string>
     <string name="backup_item_app_title">Приложения</string>
     <string name="backup_item_image_title">Изображения</string>
     <string name="backup_item_music_title">Музыка</string>
