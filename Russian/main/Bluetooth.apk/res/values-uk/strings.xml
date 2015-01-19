@@ -83,7 +83,7 @@
     <string name="status_canceled">Передача скасована.</string>
     <string name="status_file_error">Помилка сховища.</string>
     <string name="status_no_sd_card">Відсутня SD-карта. Вставте SD-карту для збереження переданих файлів.</string>
-    <string name="status_connection_error">Не вдалося встановити з'єднання.</string>
+    <string name="status_connection_error">Не вдалося встановити з\'єднання.</string>
     <string name="status_protocol_error">Неможливо правильно обробити запит.</string>
     <string name="status_unknown_error">Невідома помилка</string>
     <string name="btopp_live_folder">Отримано по Bluetooth</string>
@@ -111,8 +111,8 @@
     <string name="ble_all_stop_btn">стоп</string>
     <string name="ble_stop_alarm">Зупинити сигнал</string>
     <string name="ble_alert_title">Оповіщення поза діапазону</string>
-    <string name="ble_title">Пошук маленьких об'єктів</string>
-    <string name="ble_noti_multi_event">Багато об'єктів поза діапазону Bluetooth пошуку</string>
+    <string name="ble_title">Пошук маленьких об\'єктів</string>
+    <string name="ble_noti_multi_event">Багато об\'єктів поза діапазону Bluetooth пошуку</string>
     <string name="opp_noti_title">Bluetooth передача</string>
     <string name="opp_noti_rate_inbound">Отримання: ХХХХ/S</string>
     <string name="opp_noti_rate_outbound">Відправка: ХХХХ/S</string>
@@ -125,15 +125,15 @@
     <string name="pbap_session_key_dialog_title">Введіть ключ сеансу для %1$s</string>
     <string name="pbap_session_key_dialog_header">Необхідний ключ сеансу Bluetooth.</string>
     <string name="pbap_acceptance_timeout_message">Минув час очікування при установці підключення до %1$s.</string>
-    <string name="pbap_authentication_timeout_message">Минув час очікування введення ключа сеансу для зв'язку з %1$s.</string>
+    <string name="pbap_authentication_timeout_message">Минув час очікування введення ключа сеансу для зв\'язку з %1$s.</string>
     <string name="auth_notif_ticker">Запит на аутентифікацію Obex</string>
     <string name="auth_notif_title">Ключ сеансу</string>
     <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
     <string name="defaultname">Автомобільний комплект</string>
-    <string name="unknownName">Невідоме ім'я</string>
+    <string name="unknownName">Невідоме ім\'я</string>
     <string name="localPhoneName">Моя назва</string>
     <string name="defaultnumber">000000</string>
-    <string name="hello">Hello, World! (перевірка зв'язку)</string>
+    <string name="hello">Hello, World! (перевірка зв\'язку)</string>
     <string name="app_name">Передача по Bluetooth</string>
     <string name="insert_record">Вставити запис</string>
     <string name="update_record">Підтвердити запис</string>
@@ -146,7 +146,7 @@
     <string name="map_session_key_dialog_title">Введіть ключ сеансу для %1$s</string>
     <string name="map_session_key_dialog_header">Необхідний ключ сеансу Bluetooth</string>
     <string name="map_acceptance_timeout_message">Минув час очікування при установці підключення до %1$s.</string>
-    <string name="map_authentication_timeout_message">Минув час очікування введення ключа сеансу для зв'язку з %1$s.</string>
+    <string name="map_authentication_timeout_message">Минув час очікування введення ключа сеансу для зв\'язку з %1$s.</string>
     <string name="map_auth_notif_ticker">Запит на аутентифікацію Obex</string>
     <string name="map_auth_notif_title">Ключ сеансу</string>
     <string name="map_auth_notif_message">Введіть ключ сеансу для %1$s</string>
