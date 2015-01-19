@@ -120,7 +120,7 @@
     <string name="network_exception">Сетевые неполадки</string>
     <string name="network_exception_message">Ошибка подключения к сети</string>
     <string name="create_folder_network_exception">Ошибка подключения к сети, папка не создана</string>
-    <string name="refresh_network_exception">Сбой подключения к сети，Не удалось создать папку</string>
+    <string name="refresh_network_exception">Сбой подключения к сети, не удалось создать папку</string>
     <string name="alert_title">Совет</string>
     <string name="logout_recheck">Выход</string>
     <string name="logout_tips">Выйти из аккаунта?</string>
@@ -135,16 +135,16 @@
     <string name="no_result">Нет результатов</string>
     <string name="loading">Загрузка...</string>
     <string name="menu_text_empty_search_history">История пуста</string>
-    <string name="search_param_error">Поиск, не верное содержание сайта</string>
+    <string name="search_param_error">Неверное содержание поискового запроса</string>
     <string name="sdcard_unmounted">SD-карта недоступна</string>
     <string name="account_error_toast">Войдите в Облако Nubia и повторите попытку</string>
     <string name="sdcard_not_exist">Нет SD-карты</string>
-    <string name="update_version_failed_mount_sdcard">Не обновлено，подключите sdcard</string>
+    <string name="update_version_failed_mount_sdcard">Не обновлено, подключите sdcard</string>
     <string name="new_version">Обновите Облако Nubia</string>
     <string name="check_version">обнаружена новая версия: %s</string>
     <string name="install_latest_apk">Последняя версия %s загружена, установите сейчас</string>
     <string name="download_apk">Загрузка nubia-Облако %s Версия</string>
-    <string name="apk_version_info">nubia-Облако %s Версия</string>
+    <string name="apk_version_info">Облако nubia %s Версия</string>
     <string name="update_now">Обновить сейчас</string>
     <string name="waitfor_next_version">Ожидайте другую версию</string>
     <string name="download_apk_finish">Ожидайте, Нажмите для обновления</string>
@@ -220,7 +220,7 @@
     <string name="searching_tips">Поиск...</string>
     <string name="search_result_tips">Результаты поиска（%d）</string>
     <string name="select_file_type_to_upload">Выберите тип выгружаемого файла</string>
-    <string name="search_box_hint_text">Поиск nubia-Облака</string>
+    <string name="search_box_hint_text">Поиск Облака nubia</string>
     <string name="status_bar_uploading_num">Выгрузка</string>
     <string name="status_bar_downloading_num">Загрузка</string>
     <string name="status_bar_upload_success">Все успешно выгружено</string>
@@ -240,7 +240,7 @@
     <string name="pim_end">Завершена синхронизация контактов</string>
     <string name="delete_file_dialog_title">Удаление файла</string>
     <string name="delete_file_dialog_confirm">Действительно удалить выбранный файл?</string>
-    <string name="delete_system_file_dialog_content">你的选择含有第三方应用的文件，删除后该应用中对应的文件也将被删除，是否继续？</string>
+    <string name="delete_system_file_dialog_content">Выберите файлы приложения, После удаления приложения будут удалены, Продолжить?</string>
     <string name="can_not_delete_apps">(Вы не можете удалять каталог “my application data”)</string>
     <string name="wifi_is_ready">Wi-Fi подключен，Все готово</string>
     <string name="wait_for_wifi">Подождите Wi-Fi подключения,Все задачи на паузу</string>
@@ -281,7 +281,7 @@
     <string name="verifycode_tip">Код</string>
     <string name="phone_hint">Укажите номер</string>
     <string name="username_email">Логин/E-mail</string>
-    <string name="password_limit">6-14символов，С учетом регистра</string>
+    <string name="password_limit">6-14 символов, с учетом регистра</string>
     <string name="verifycode_hint">请输入验证码</string>
     <string name="network_fail">网络不通，请稍候再试</string>
     <string name="show">Показать</string>
