@@ -327,7 +327,7 @@
     <string name="cloud_restore">Востановить с сервера</string>
     <string name="ui_backuptocloudactivity_title">Копировать на облачное хранилище</string>
     <string name="start_backup">Начать копирование</string>
-    <string name="cloud_backup_progress_title">Копировать</string>
+    <string name="cloud_backup_progress_title">Копирование</string>
     <string name="handling_and_wait">Генерируются данные, пожалуйста ждите…</string>
     <string name="backing_up">Копирование</string>
     <string name="failed_to_backup">Ошибка копирования!</string>
