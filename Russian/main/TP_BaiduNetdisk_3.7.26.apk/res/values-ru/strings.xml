@@ -14,9 +14,9 @@
     <string name="category_netdisk">Сервис nubia</string>
     <string name="please_wait">Подождите...</string>
     <string name="springday_commit">Моментально!</string>
-    <string name="springday_finish">完成</string>
+    <string name="springday_finish">Готово</string>
     <string name="springday_see_list">查看中奖</string>
-    <string name="quick_click_text">正在处理上次点击，请稍后</string>
+    <string name="quick_click_text">正在处理上次点击，пожалуйста подождите...</string>
     <string name="bind_alert_ok">Ок</string>
     <string name="settings">Настройки</string>
     <string name="settings_summary_total_netdisk">Запрос...</string>
@@ -76,22 +76,22 @@
     <string name="upload_file_all_added">Добавлено в список передачи</string>
     <string name="upload_file_all_empty">Пустой файл нельзя передать</string>
     <string name="upload_file_all_large">Нельзя передать файл больше 1GB</string>
-    <string name="upload_file_part_large">"已添加到传输列表
-(不支持大于1G文件上传)"</string>
-    <string name="upload_file_part_empty">"已添加到传输列表
-(不支持空文件上传)"</string>
-    <string name="upload_file_part_large_empty_added">"已添加到传输列表
-(不支持空文件和大于1G文件上传)"</string>
-    <string name="upload_file_part_large_empty_noadded">不支持空文件和大于1G文件上传</string>
-    <string name="upload_file_all_dir">不支持文件夹上传</string>
-    <string name="upload_file_part_dir">"已添加到传输列表
-(不支持文件夹上传)"</string>
-    <string name="upload_file_part_large_dir_added">"已添加到传输列表
-(不支持大于1G文件和文件夹上传)"</string>
-    <string name="upload_file_part_large_dir_noadded">不支持大于1G文件和文件夹上传</string>
-    <string name="upload_file_part_empty_dir_added">"已添加到传输列表
-(不支持空文件和文件夹上传)"</string>
-    <string name="upload_file_part_empty_dir_noadded">不支持空文件和文件夹上传</string>
+    <string name="upload_file_part_large">"Слишком большой файл добавлен в список передачи
+(более 1Gb не поддерживается)"</string>
+    <string name="upload_file_part_empty">"Нет файлов для передачи
+(Не поддерживается)"</string>
+    <string name="upload_file_part_large_empty_added">"Добавлен в список передачи
+(Не поддерживаются пустые файлы и более 1Gb)"</string>
+    <string name="upload_file_part_large_empty_noadded">Не поддерживаются пустые файлы и более 1Gb</string>
+    <string name="upload_file_all_dir">Не поддерживаются каталоги</string>
+    <string name="upload_file_part_dir">"Добавлен в список загрузки
+(Каталоги не поддерживаются)"</string>
+    <string name="upload_file_part_large_dir_added">"Добавлен в список передачи
+(Не поддерживаются файлы более 1Gb и загрузка папок)"</string>
+    <string name="upload_file_part_large_dir_noadded">Не поддерживаются файлы более 1Gb и загрузка папок</string>
+    <string name="upload_file_part_empty_dir_added">"Добавлен в список передачи
+(Не поддерживаются пустые файлы и каталоги)"</string>
+    <string name="upload_file_part_empty_dir_noadded">Не поддерживаются пустые файлы и каталоги</string>
     <string name="upload_file_part_large_empty_dir_added">"已添加到传输列表
 (不支持空文件,大于1G文件和文件夹上传)"</string>
     <string name="upload_file_part_large_empty_dir_noadded">不支持空文件,大于1G文件和文件夹上传</string>
@@ -120,7 +120,7 @@
     <string name="network_exception">Сетевые неполадки</string>
     <string name="network_exception_message">Ошибка подключения к сети</string>
     <string name="create_folder_network_exception">Ошибка подключения к сети, папка не создана</string>
-    <string name="refresh_network_exception">网络连接失败，创建文件夹失败</string>
+    <string name="refresh_network_exception">Сбой подключения к сети，Не удалось создать папку</string>
     <string name="alert_title">Совет</string>
     <string name="logout_recheck">Выход</string>
     <string name="logout_tips">Выйти из аккаунта?</string>
@@ -135,11 +135,11 @@
     <string name="no_result">Нет результатов</string>
     <string name="loading">Загрузка...</string>
     <string name="menu_text_empty_search_history">История пуста</string>
-    <string name="search_param_error">搜索内容不正确</string>
+    <string name="search_param_error">Поиск, не верное содержание сайта</string>
     <string name="sdcard_unmounted">SD-карта недоступна</string>
     <string name="account_error_toast">Войдите в Облако Nubia и повторите попытку</string>
     <string name="sdcard_not_exist">Нет SD-карты</string>
-    <string name="update_version_failed_mount_sdcard">升级失败，请尝试插拔sdcard</string>
+    <string name="update_version_failed_mount_sdcard">Не обновлено，подключите sdcard</string>
     <string name="new_version">Обновите Облако Nubia</string>
     <string name="check_version">обнаружена новая версия: %s</string>
     <string name="install_latest_apk">Последняя версия %s загружена, установите сейчас</string>
@@ -147,11 +147,11 @@
     <string name="apk_version_info">nubia云%s版本</string>
     <string name="update_now">Обновить сейчас</string>
     <string name="waitfor_next_version">下次再说</string>
-    <string name="download_apk_finish">下载完毕，点击安装</string>
-    <string name="apk_download_failed">升级失败</string>
+    <string name="download_apk_finish">Ожидайте, Нажмите для обновления</string>
+    <string name="apk_download_failed">Ошибка обновления</string>
     <string name="aboout_app_version_text">Текущая версия %s</string>
-    <string name="check_version_text">检查新版本</string>
-    <string name="install_video_player_text">安装视频播放插件</string>
+    <string name="check_version_text">Проверка наличия новой версии</string>
+    <string name="install_video_player_text">Установите видео плеер</string>
     <string name="protocol_text">用户协议</string>
     <string name="already_lastet_version">你的nubia云已是最新版本</string>
     <string name="pull_to_refresh_pull_label">拖动可以刷新...</string>
@@ -169,7 +169,7 @@
     <string name="create_folder_over_length">超过最大文件名长度</string>
     <string name="create_folder_path_over_length">超过最大路径长度</string>
     <string name="list_loading_label">正在加载中...</string>
-    <string name="my_app_data">我的应用数据</string>
+    <string name="my_app_data">Данные приложения</string>
     <string name="baidu_album">Альбом Baidu</string>
     <string name="upload">Загрузить</string>
     <string name="select">Выбрать</string>
@@ -178,14 +178,14 @@
     <string name="backup_label_not_yet_upload">Не загружено(%1$s)</string>
     <string name="type_backup_label_upload">Загружено(%1$s)</string>
     <string name="type_all">全部</string>
-    <string name="file_all_upload">我的nubia云</string>
+    <string name="file_all_upload">Все файлы загружены в nubia-Облако/string>
     <string name="go_ahead">Продолжить</string>
     <string name="upload_failed">Не удалось загрузить (%1$s)</string>
     <string name="uploading">Загрузка (%1$s)</string>
     <string name="upload_complete">Загружено полностью (%1$s)</string>
-    <string name="download_failed">下载失败(%1$s)</string>
-    <string name="downloading">正在下载(%1$s)</string>
-    <string name="download_complete">下载完成(%1$s)</string>
+    <string name="download_failed">Не удалось загрузить(%1$s)</string>
+    <string name="downloading">Загрузка(%1$s)</string>
+    <string name="download_complete">Загрузка закончена(%1$s)</string>
     <string name="upload_failed_normal">上传失败</string>
     <string name="upload_complete_normal">上传完成</string>
     <string name="download_failed_normal">下载失败</string>
@@ -193,8 +193,8 @@
     <string name="upload_list">上传列表</string>
     <string name="download_list">下载列表</string>
     <string name="selected_file_to_edit">已选定%d个</string>
-    <string name="all_reupload">全部重新上传</string>
-    <string name="all_redownload">全部重新下载</string>
+    <string name="all_reupload">Выгрузить все повторно</string>
+    <string name="all_redownload">Загрузить все повторно</string>
     <string name="all_pause_upload">全部暂停</string>
     <string name="all_start_pause_upload">全部继续</string>
     <string name="upload_pause">暂停上传</string>
@@ -202,8 +202,8 @@
     <string name="upload_failed_no_storage_space">nubia云存储空间不足啦~</string>
     <string name="delete_success">删除成功</string>
     <string name="download_failed_no_sdcard_space">SD卡空间已满</string>
-    <string name="source_file_not_found">本地文件不存在</string>
-    <string name="remote_file_not_found">云端文件不存在</string>
+    <string name="source_file_not_found">Локальный файл не найден</string>
+    <string name="remote_file_not_found">Удаленный файл не найден</string>
     <string name="waiting_for_wifi">Жду подключения к Wi-Fi</string>
     <string name="waiting_for_net">Жду сеть...</string>
     <string name="choose_album">Выберите альбом</string>
@@ -214,12 +214,12 @@
     <string name="create">Создать</string>
     <string name="max_photo_num">999+</string>
     <string name="selecte_default_download_position">Выберите путь загрузки по умолчанию</string>
-    <string name="select_folder">选定：%s</string>
-    <string name="upload_folder">上传至：%s</string>
-    <string name="select_upload_path">Выберите путь загрузки</string>
+    <string name="select_folder">Каталог：%s</string>
+    <string name="upload_folder">Выгрузка в：%s</string>
+    <string name="select_upload_path">Выберите путь выгрузки/string>
     <string name="searching_tips">Поиск...</string>
-    <string name="search_result_tips">搜索结果（%d）</string>
-    <string name="select_file_type_to_upload">选择上传文件类型</string>
+    <string name="search_result_tips">Результаты поиска（%d）</string>
+    <string name="select_file_type_to_upload">Выберите тип выгружаемого файла</string>
     <string name="search_box_hint_text">搜索我的nubia云文件</string>
     <string name="status_bar_uploading_num">正在上传</string>
     <string name="status_bar_downloading_num">正在下载</string>
