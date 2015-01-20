@@ -143,7 +143,7 @@
     <string name="new_version">Обновите Облако Nubia</string>
     <string name="check_version">обнаружена новая версия: %s</string>
     <string name="install_latest_apk">Последняя версия %s загружена, установите сейчас</string>
-    <string name="download_apk">Загрузка nubia-Облако %s Версия</string>
+    <string name="download_apk">Загрузка приложения %s Версия</string>
     <string name="apk_version_info">Облако nubia %s Версия</string>
     <string name="update_now">Обновить сейчас</string>
     <string name="waitfor_next_version">Ожидайте другую версию</string>
@@ -152,8 +152,8 @@
     <string name="aboout_app_version_text">Текущая версия %s</string>
     <string name="check_version_text">Проверка наличия новой версии</string>
     <string name="install_video_player_text">Установите видео плеер</string>
-    <string name="protocol_text">用户协议</string>
-    <string name="already_lastet_version">你的nubia云已是最新版本</string>
+    <string name="protocol_text">Пользовательское соглашение</string>
+    <string name="already_lastet_version">Ваша версия, самая новая</string>
     <string name="pull_to_refresh_pull_label">拖动可以刷新...</string>
     <string name="pull_to_refresh_release_label">松开可以刷新...</string>
     <string name="pull_to_refresh_refreshing_label">加载中...</string>
@@ -163,7 +163,7 @@
     <string name="create_folder_suc">Папка создана</string>
     <string name="create_folder_fail">Папка не создана</string>
     <string name="create_folder_progress">Новая папка...</string>
-    <string name="create_folder_select">选定</string>
+    <string name="create_folder_select">Выбрать</string>
     <string name="create_folder_exist">Папка уже существует</string>
     <string name="create_folder_not_valid">包括非法字符</string>
     <string name="create_folder_over_length">Слишком длинное имя файла</string>
