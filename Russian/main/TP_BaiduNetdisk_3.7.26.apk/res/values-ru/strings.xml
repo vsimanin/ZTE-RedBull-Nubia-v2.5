@@ -67,7 +67,7 @@
     <string name="add_number">Номера (возврат каретки - разделитель)</string>
     <string name="add_email">Адреса e-mail (возврат каретки - разделитель)</string>
     <string name="file_delete_success">Успешно удалено</string>
-    <string name="file_delete_system_folder_error">"文件已删除
+    <string name="file_delete_system_folder_error">"Удаление файлов
 (Системные папки нельзя удалять)"</string>
     <string name="file_delete_failed">Ошибка удаления</string>
     <string name="get_file_list_failed">Ошибка получения списка файлов</string>
@@ -92,16 +92,16 @@
     <string name="upload_file_part_empty_dir_added">"Добавлен в список передачи
 (Не поддерживаются пустые файлы и каталоги)"</string>
     <string name="upload_file_part_empty_dir_noadded">Не поддерживаются пустые файлы и каталоги</string>
-    <string name="upload_file_part_large_empty_dir_added">"已添加到传输列表
-(不支持空文件,大于1G文件和文件夹上传)"</string>
-    <string name="upload_file_part_large_empty_dir_noadded">不支持空文件,大于1G文件和文件夹上传</string>
-    <string name="download_folder_not_exist">默认下载目录不存在</string>
-    <string name="download_file_overflow">下载文件已超过100个,请重新选择</string>
-    <string name="download_file_all_added">已添加到传输列表</string>
-    <string name="statusbar_start_upload_tickerText"> Облако Nubia, начинаю загружать</string>
+    <string name="upload_file_part_large_empty_dir_added">"Добавлен в список передачи
+(Не поддерживаются файлы более 1Gb и загрузка папок)"</string>
+    <string name="upload_file_part_large_empty_dir_noadded">Не поддерживаются файлы более 1Gb и загрузка папок</string>
+    <string name="download_folder_not_exist">Каталог для загрузки по умолчанию не существует</string>
+    <string name="download_file_overflow">Загружаемых файлов более 100个, повторите</string>
+    <string name="download_file_all_added">Все файлы для загруки добавлены</string>
+    <string name="statusbar_start_upload_tickerText"> Облако Nubia, начинаю выгружать</string>
     <string name="statusbar_start_downloading_tickerText">Облако Nubia, начинаю скачивать</string>
     <string name="statusbar_title_tickerText">Облако Nubia</string>
-    <string name="share_alert">分享由nubia云服务器发出，仅产生较少的网络流量。</string>
+    <string name="share_alert">Расшарить Облако nubia, внимание трафик</string>
     <string name="delete_overflow">Количество удаленных файлов превысило 100个, Повторите</string>
     <string name="delete_sysfolder_err">Эта папка не может быть удалена</string>
     <string name="share_overflow">分享文件已超100个，请重新选择</string>
