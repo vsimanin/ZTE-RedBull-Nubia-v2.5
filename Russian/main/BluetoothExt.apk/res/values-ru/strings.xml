@@ -18,7 +18,7 @@
     <string name="ftp_notif_ticker">Запрос на подключение Bluetooth</string>
     <string name="ftp_notif_title">Запрос ключа сессии для FTP</string>
     <string name="ftp_notif_message">Каснитесь для подключения к \"%1$s\".</string>
-    <string name="ftp_notif_active_session">Bluetooth FTP активнfz сессиz</string>
+    <string name="ftp_notif_active_session">Bluetooth FTP активная сессия</string>
     <string name="ftp_notif_connected">"Bluetotoh передачи файлов, доступа к \"%1$s\"."</string>
     <string name="bluetooth_ftp_request">FTP-запрос</string>
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s хотел бы получить доступ к файлам и папкам. Разрешить доступ к %2$s?</string>
