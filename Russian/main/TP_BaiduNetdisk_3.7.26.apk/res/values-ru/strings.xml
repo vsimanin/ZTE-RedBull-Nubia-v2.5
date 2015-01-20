@@ -216,7 +216,7 @@
     <string name="selecte_default_download_position">Выберите путь загрузки по умолчанию</string>
     <string name="select_folder">Каталог: %s</string>
     <string name="upload_folder">Выгружать в: %s</string>
-    <string name="select_upload_path">Выберите путь выгрузки/string>
+    <string name="select_upload_path">Выберите путь выгрузки</string>
     <string name="searching_tips">Поиск...</string>
     <string name="search_result_tips">Результаты поиска（%d）</string>
     <string name="select_file_type_to_upload">Выберите тип выгружаемого файла</string>
@@ -241,7 +241,7 @@
     <string name="delete_file_dialog_title">Удаление файла</string>
     <string name="delete_file_dialog_confirm">Действительно удалить выбранный файл?</string>
     <string name="delete_system_file_dialog_content">你的选择含有第三方应用的文件，删除后该应用中对应的文件也将被删除，是否继续?</string>
-    <string name="can_not_delete_apps">(Вы не можете удалять каталог "My application data")</string>
+    <string name="can_not_delete_apps">(Вы не можете удалять каталог \"My application data\")</string>
     <string name="wifi_is_ready">Wi-Fi подключен，всё готово</string>
     <string name="wait_for_wifi">Ожидание Wi-Fi подключения, все задачи приостановлены</string>
     <string name="wifi_dialog_tips">Совет</string>
