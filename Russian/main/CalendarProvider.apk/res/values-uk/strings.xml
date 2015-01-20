@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">Пам'ять календаря</string>
+    <string name="calendar_storage">Пам\'ять календаря</string>
     <string name="upgrade_msg">Оновлення бази даних календаря ...</string>
     <string name="calendar_default_name">За промовчанням</string>
     <string name="calendar_info">Відомості про календар</string>
