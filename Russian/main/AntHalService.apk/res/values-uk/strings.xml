@@ -6,5 +6,5 @@
 <string name="permdesc_ant">Дозволяє програмі з\'єднуватися з ANT-сумісними пристроями, що використовують службу проксі. Шкідливі програми можуть отримати інформацію чи передати її на пристрої ANT без вашого відома</string>
 <string name="permlab_ant">Використовувати ANT радіоінтерфейс</string>
 <string name="permdesc_antAdmin">Програма зможе напряму налаштувати ANT сигнал через проксі-сервіс. Віруси можуть запобігти інші ANT програми від підключення до ANT пристроїв.</string>
-<string name="permlab_antAdmin">Керувати конфігурацією ANT радіо/string>
+<string name="permlab_antAdmin">Керувати конфігурацією ANT радіо</string>
 </resources>
