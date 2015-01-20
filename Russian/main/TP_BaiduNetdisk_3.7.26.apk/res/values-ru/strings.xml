@@ -104,8 +104,8 @@
     <string name="share_alert">Расшарить Облако nubia, внимание трафик</string>
     <string name="delete_overflow">Количество удаленных файлов превысило 100个, Повторите</string>
     <string name="delete_sysfolder_err">Эта папка не может быть удалена</string>
-    <string name="share_overflow">分享文件已超100个，请重新选择</string>
-    <string name="add_one_repeat_recipients">\"%1$s\"被重复添加</string>
+    <string name="share_overflow">Общий доступ к файлам превысил 100，Пожалуйста повторите</string>
+    <string name="add_one_repeat_recipients">\"%1$s\"Добавить получателя повторно</string>
     <string name="add_some_repeat_recipients">%1$s位联系人被重复添加</string>
     <string name="send_sharing">Публикация...</string>
     <string name="share_error">Ошибка публикации</string>
@@ -164,11 +164,11 @@
     <string name="create_folder_fail">Папка не создана</string>
     <string name="create_folder_progress">Новая папка...</string>
     <string name="create_folder_select">Выбрать</string>
-    <string name="create_folder_exist">Папка уже существует</string>
-    <string name="create_folder_not_valid">包括非法字符</string>
+    <string name="create_folder_exist">Каталог уже существует</string>
+    <string name="create_folder_not_valid">Каталог не может быть создан</string>
     <string name="create_folder_over_length">Слишком длинное имя файла</string>
-    <string name="create_folder_path_over_length">超过最大路径长度</string>
-    <string name="list_loading_label">正在加载中...</string>
+    <string name="create_folder_path_over_length">Слишком длинный путь к папке</string>
+    <string name="list_loading_label">Список загрузки...</string>
     <string name="my_app_data">Данные приложения</string>
     <string name="baidu_album">Альбом Baidu</string>
     <string name="upload">Загрузить</string>
@@ -177,7 +177,7 @@
     <string name="deselect_all">Отменить выбор</string>
     <string name="backup_label_not_yet_upload">Не загружено(%1$s)</string>
     <string name="type_backup_label_upload">Загружено(%1$s)</string>
-    <string name="type_all">全部</string>
+    <string name="type_all">Все</string>
     <string name="file_all_upload">Все файлы загружены в Облако nubia</string>
     <string name="go_ahead">Продолжить</string>
     <string name="upload_failed">Не удалось загрузить (%1$s)</string>
@@ -192,14 +192,14 @@
     <string name="download_complete_normal">Загружено</string>
     <string name="upload_list">Выгрузить список</string>
     <string name="download_list">Загрузить список</string>
-    <string name="selected_file_to_edit">已选定%d个</string>
+    <string name="selected_file_to_edit">Выбран файл%d个</string>
     <string name="all_reupload">Выгрузить все повторно</string>
     <string name="all_redownload">Загрузить все повторно</string>
     <string name="all_pause_upload">Приостановить все</string>
     <string name="all_start_pause_upload">Возобновить все</string>
     <string name="upload_pause">Приостановить выгрузку</string>
     <string name="download_pause">Приостановить загрузку</string>
-    <string name="upload_failed_no_storage_space">nubia云存储空间不足啦~</string>
+    <string name="upload_failed_no_storage_space">Недостаточно места в Облаке Nubia~</string>
     <string name="delete_success">Успешно удалено</string>
     <string name="download_failed_no_sdcard_space">Ошибка загрузки, нет места на SD-card</string>
     <string name="source_file_not_found">Локальный файл не найден</string>
@@ -207,10 +207,10 @@
     <string name="waiting_for_wifi">Жду подключения к Wi-Fi</string>
     <string name="waiting_for_net">Жду сеть...</string>
     <string name="choose_album">Выберите альбом</string>
-    <string name="unupload">未上传</string>
-    <string name="uploaded">已上传</string>
-    <string name="both_unupload_upload">全部(%1$s)</string>
-    <string name="upload_num_btn">上传(%1$s)</string>
+    <string name="unupload">Не загружено</string>
+    <string name="uploaded">Загружено</string>
+    <string name="both_unupload_upload">Все(%1$s)</string>
+    <string name="upload_num_btn">Загрузить(%1$s)</string>
     <string name="create">Создать</string>
     <string name="max_photo_num">999+</string>
     <string name="selecte_default_download_position">Выберите путь загрузки по умолчанию</string>
@@ -255,7 +255,7 @@
     <string name="wifi_download_upload_only_open_toast">已开启\"仅在Wi-Fi下上传/下载\"</string>
     <string name="on_wifi_dialog_cancel">忽略</string>
     <string name="on_wifi_dialog_confirm">开启</string>
-    <string name="address_dialog_tips">通讯录自动同步</string>
+    <string name="address_dialog_tips">Автоматическая синхронизация контактов</string>
     <string name="address_dialog_contents">通讯录将自动同步至云端，确定开启并同步？</string>
     <string name="address_dialog_cancel">取消</string>
     <string name="address_dialog_confirm">开启</string>
@@ -531,7 +531,7 @@
 %2$s
 你将以该帐号访问nubia云"</string>
     <string name="smsmms_backup_welcom_text">短信备份,记录你和Ta的点点滴滴</string>
-    <string name="smsmms_backup_day_remind_text">您已经%s没有备份了！</string>
+    <string name="smsmms_backup_day_remind_text">smsmms_backup_day_remind_text%sНет резервной копии!</string>
     <string name="smsmms_restore_start_button">恢复短信</string>
     <string name="smsmms_backup_time_text">上次更新于：%s</string>
     <string name="smsmms_backup_count_local">本地：%s条</string>
@@ -541,7 +541,7 @@
     <string name="smsmms_info_text_some">"本地短信备份成功%1$s条
 失败%2$s条"</string>
     <string name="smsmms_info_text_cancel">本地短信备份成功%1$s条</string>
-    <string name="server_busy">系统繁忙，请稍后再试</string>
+    <string name="server_busy">Сервер занят，повторите позже</string>
     <string name="smsmms_backup_dialog_title">短信备份</string>
     <string name="smsmms_backup_restore_title">短信备份</string>
     <string name="smsmms_backuping_content">正在为您备份，请不要退出</string>
@@ -555,8 +555,8 @@
     <string name="smsmms_restore_all_devices">全部设备</string>
     <string name="smsmms_restore_all_success">%s条短信全部恢复成功</string>
     <string name="smsmms_restore_partly_success">短信恢复成功%1$s条</string>
-    <string name="smsmms_restore_cancel">短信恢复成功%s条</string>
-    <string name="smsmms_restore_dialog_title">短信恢复</string>
+    <string name="smsmms_restore_cancel">Востановление%s条</string>
+    <string name="smsmms_restore_dialog_title">Востановление SMS,MMS</string>
     <string name="smsmms_restore_getting_devices">Получение данных</string>
     <string name="smsmms_net_error">Ошибка сети</string>
     <string name="smsmms_server_error">Ошибка сервера</string>
