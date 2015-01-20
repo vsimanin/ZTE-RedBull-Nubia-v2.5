@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Основні програми Android</string>
+    <string name="app_label">Сховище контактів</string>
+    <string name="provider_label">Контакти</string>
+    <string name="upgrade_msg">Оновлення бази даних контактів...</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Для поновлення контактів потрібно більше пам\'яті.</string>
+    <string name="upgrade_out_of_memory_notification_title">Недостатньо місця для поновлення контактів</string>
+    <string name="upgrade_out_of_memory_notification_text">Натисніть, щоб завершити оновлення.</string>
+    <string name="default_directory">Контакти</string>
+    <string name="local_invisible_directory">Інше</string>
+    <string name="read_write_all_voicemail_label">Доступ до голосових повідомлень</string>
+    <string name="read_write_all_voicemail_description">Дозволяє програмі зберігати і завантажувати всі голосові повідомлення, до яких є доступ на цьому пристрої.</string>
+    <string name="voicemail_from_column">"Голосове повідомлення від абонента"</string>
+    <string name="debug_dump_title">Копіювання бази даних контактіов</string>
+    <string name="debug_dump_database_message">Ви збираєтеся скопіювати базу даних ваших контактів і списку викликів у внутрішню пам\'ять пристрою. При цьому копія бази буде надіслана електронною поштою. Обов\'язково видаліть ці дані з пристрою після того, як вони будуть скопійовані з нього або отримані у листі.</string>
+    <string name="debug_dump_delete_button">Видалити</string>
+    <string name="debug_dump_start_button">Копіювати</string>
+    <string name="debug_dump_email_sender_picker">Оберіть додаток для відправки файлу</string>
+    <string name="debug_dump_email_subject">До повідомлення додана база даних контактів</string>
+    <string name="debug_dump_email_body">Будьте уважні: у доданому файлі знаходиться база даних з моїми контактами.</string>
+    <string name="nubia_service_name">Підтримка Nubia</string>
+    <string name="nubia_service_number">0000000000</string>
+    <string name="nubia_service_number_label">Гаряча лінія</string>
+    <string name="nubia_service_im">Служба турботи про клієнтів Nubia</string>
+    <string name="nubia_service_im_label">Мікро повідомлення</string>
+    <string name="nubia_service_email">service@nubia.cn</string>
+    <string name="nubia_service_email_label">Email</string>
+    <string name="nubia_service_website">www.4pda.ru</string>
+    <string name="group_family">Сім\'я</string>
+    <string name="group_friend">Друзі</string>
+    <string name="group_work">Колеги</string>	
+</resources>
+
+	English » 	
+	
+	
+	
+strings.xml
+Like our service? Make a small contribution
