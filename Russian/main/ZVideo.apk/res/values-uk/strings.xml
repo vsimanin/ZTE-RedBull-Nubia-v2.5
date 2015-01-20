@@ -62,11 +62,11 @@
     <string name="video_press_again">Натисніть назад, щоб вийти</string>
     <string name="video_screen_locked">Екран заблокований</string>
     <string name="rename">Перейменувати</string>
-    <string name="filename">Ім'я файлу</string>
+    <string name="filename">Ім\'я файлу</string>
     <string name="please_input">Будь ласка, введіть</string>
     <string name="fileisexist">Файл існує, спробуйте знову</string>
     <string name="filenameisnull">Файл не може бути порожнім, спробуйте знову.</string>
-    <string name="filename_invalid">Не вдалося перейменувати: ім'я файлу містить неприпустимий символ.</string>
+    <string name="filename_invalid">Не вдалося перейменувати: ім\'я файлу містить неприпустимий символ.</string>
     <string name="exceed_filename_size_limitation">Назва файлу занадто довга, привласнити перші 100 символів автоматично.</string>
     <string name="no_content">Немає відеофайлів</string>
     <string name="encrypt_media">Будь ласка, виберіть зображення або відео</string>
@@ -84,7 +84,7 @@
     <string name="ask_input_passwd">Будь ласка, введіть свій особистий код безпеки</string>
     <string name="password_error">Неправильний пароль, введіть знову.</string>
     <string name="click_to_input">Ввести тут.</string>
-    <string name="security_exception_tip">Поточний час невірний, з'єднайтесь з Інтернетом для встановлення вірного варіанта</string>
+    <string name="security_exception_tip">Поточний час невірний, з\'єднайтесь з Інтернетом для встановлення вірного варіанта</string>
     <string name="cut">Обрізати</string>
     <string name="done">Зроблено</string>
     <string name="folder_download">Завантажити</string>
