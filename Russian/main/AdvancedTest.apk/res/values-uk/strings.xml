@@ -73,7 +73,7 @@
 <string name="wifi_channel">Wi-Fi Канал</string>
 <string name="wifi_power">Потужність Wi-Fi</string>
 <string name="wifi_tx_rate">Швидкість Wi-Fi TX</string>
-<string name="wifi_channel_bonding">Об'єднання каналів</string>
+<string name="wifi_channel_bonding">Об\'єднання каналів</string>
 <string name="no_execute">Не виконано</string>
 <string name="pls_set">Будь ласка, встановіть</string>
 <string name="wifi_mode">Режим Wi-Fi</string>
