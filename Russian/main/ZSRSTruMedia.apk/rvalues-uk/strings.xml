@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Еквалайзер</string>
+    <string name="srs_title">Еквалайзер</string>
+    <string name="list_title">Вибір профілю</string>
+    <string name="volum_enhance">Збільшення гучності</string>
+    <string name="preset_movie">Фільм</string>
+    <string name="preset_music">Музика</string>
+    <string name="preset_podcast">Подкаст</string>
+    <string name="preset_gaming">Гра</string>
+    <string name="vol_boost">Збільшення обсягу гучності</string>
+    <string name="slide_bass">Низькі частоти</string>
+    <string name="slide_treble">Високі частоти</string>
+    <string name="preset_header">Що ви слухаєте?</string>
+    <string name="reset_defaults">Відновити значення за замовчуванням</string>
+    <string name="switch_on">Вкл</string>
+    <string name="switch_off">Викл</string>
+    <string name="actionbar_title">Ефект еквалайзера</string>
+</resources>
