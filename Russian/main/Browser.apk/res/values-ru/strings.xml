@@ -100,7 +100,7 @@
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_copy">Копировать</string>
     <string name="contextmenu_copylink">Копировать URL ссылки</string>
-    <string name="contextmenu_download_image">Save image</string>
+    <string name="contextmenu_download_image">Сохранить изображение</string>
     <string name="contextmenu_view_image">Просмотр изображения</string>
     <string name="contextmenu_set_wallpaper">Установить как фоновый рисунок</string>
     <string name="contextmenu_dial_dot">Набор номера...</string>
