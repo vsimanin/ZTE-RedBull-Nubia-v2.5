@@ -3,6 +3,6 @@
     <string name="confirm_export_message">Список Ваших контактів буде експортований у файл: %s, файл знаходиться в SD-карті</string>
     <string name="profile_display_name">Мій профіль</string>
     <string name="dialog_voicemail_not_ready_message">Щоб налаштувати голосову пошту, перейдіть в Меню > Установки виклику.</string>
-    <string name="confirm_export_message_storage">Список Ваших контактів буде експортований у файл: %s, файл знаходиться в пам'яті телефону</string>
+    <string name="confirm_export_message_storage">Список Ваших контактів буде експортований у файл: %s, файл знаходиться в пам\'яті телефону</string>
 </resources>
 
