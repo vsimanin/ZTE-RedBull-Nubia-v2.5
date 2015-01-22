@@ -1177,7 +1177,7 @@
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка.</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
     <string name="forward_prefix">"Fwd: "</string>
-    <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один реальный получатель.</string>
+    <string name="discard_message_reason">Сообщение будет удалено, так как не указан ниодин реальный получатель.</string>
     <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
     <string name="invalid_destination">Неверный адрес получателя.</string>
     <string name="service_not_activated">Услуга не активирована в сети.</string>

@@ -3,11 +3,11 @@
     <string name="app_name">Облако Nubia</string>
     <string name="type_video">Видео</string>
     <string name="type_audio">Музыка</string>
-    <string name="type_pic">Изображения</string>
-    <string name="type_document">Документы</string>
+    <string name="type_pic">Фото</string>
+    <string name="type_document">Текст</string>
     <string name="type_app">Приложения</string>
     <string name="type_other">Другое</string>
-    <string name="my_netdisk_list_not_exit">Папка не существует</string>
+    <string name="my_netdisk_list_not_exit">Папка не обнаружена</string>
     <string name="my_netdisk_net_error">Облако Nubia не может подключиться, просмотр содержимого невозможен!</string>
     <string name="folder_empty">"О, тут пусто...
 Загрузите файлы сюда."</string>
@@ -190,9 +190,9 @@
     <string name="upload_complete_normal">Выгрузка завершена</string>
     <string name="download_failed_normal">Загрузка не удалась</string>
     <string name="download_complete_normal">Загружено</string>
-    <string name="upload_list">Выгрузить список</string>
-    <string name="download_list">Загрузить список</string>
-    <string name="selected_file_to_edit">Выбран файл %d</string>
+    <string name="upload_list">На выгрузку</string>
+    <string name="download_list">На загрузку</string>
+    <string name="selected_file_to_edit">Выбрано %d</string>
     <string name="all_reupload">Выгрузить все повторно</string>
     <string name="all_redownload">Загрузить все повторно</string>
     <string name="all_pause_upload">Приостановить все</string>
@@ -234,7 +234,7 @@
     <string name="status_bar_upload_success_text">Успешно выгружено%1$s个</string>
     <string name="status_bar_failed_text">Ошибка %1$s</string>
     <string name="status_bar_download_success_text">Успешно загружено %1$s</string>
-    <string name="upload_download_upon_wifi">Передача только через WIFI</string>
+    <string name="upload_download_upon_wifi">Передача только через Wi-Fi</string>
     <string name="auto_sync_address">Автосинхронизация контактов</string>
     <string name="toast_open_auto_sync_address">Авто-синхронизация контактов вкл.</string>
     <string name="pim_end">Завершена синхронизация контактов</string>
@@ -262,9 +262,9 @@
     <string name="address_out_of_space">nubia云通讯录同步失败，超过存储限制1W条</string>
     <string name="user_guide_auto_sync_address">开启通讯录同步</string>
     <string name="user_guide_auto_backup_album">Автозагрузка альбомов через Wi-Fi</string>
-    <string name="user_guide_video">安装视频播放插件</string>
-    <string name="user_guide_sms_backup">立即备份短信</string>
-    <string name="come_on_baby">立即体验</string>
+    <string name="user_guide_video">Установить видео-плагин</string>
+    <string name="user_guide_sms_backup">Мгновенный бэкап SMS</string>
+    <string name="come_on_baby">Приступить</string>
     <string name="back">Назад</string>
     <string name="regist">Регистрация</string>
     <string name="registing">Регистрация...</string>
@@ -338,26 +338,26 @@
     <string name="start_album_backup">"相册备份已开启,为您备份到文件夹
 \"%s\""</string>
     <string name="backup_complete">相册备份完成</string>
-    <string name="album_auto_backup">相册自动备份(仅Wi-Fi)</string>
+    <string name="album_auto_backup">Бэкап альбомов(по Wi-Fi)</string>
     <string name="album_backup_dialog_flow_tips">Wi-Fi环境下为您备份不耗费流量</string>
     <string name="album_backup_dialog_shutdown_backup">你可以在设置中关闭此功能</string>
     <string name="album_backup_dialog_temporarily_enable">暂不启用</string>
     <string name="album_is_backuping">相册正在备份...</string>
-    <string name="album_sync_title">相册自动备份(仅Wi-Fi)</string>
+    <string name="album_sync_title">Авто бэкап альбомов (по Wi-Fi)</string>
     <string name="choose_backup_file">选择备份文件内容</string>
-    <string name="setting_album_auto_backup">设置相册自动备份</string>
+    <string name="setting_album_auto_backup">Настройки авто бэкапа альбомов</string>
     <string name="photo">Фото</string>
     <string name="video">Видео</string>
-    <string name="sync_on">Синхронизация вкл</string>
-    <string name="sync_off">Синхронизация выкл</string>
-    <string name="album_sync_to">备份至文件夹</string>
+    <string name="sync_on">Вкл</string>
+    <string name="sync_off">Выкл</string>
+    <string name="album_sync_to">Бэкапы альбомов сохранятся в</string>
     <string name="no_album">相册中没有待备份的文件</string>
     <string name="album_backup_num">相册备份(剩余%s个)</string>
     <string name="album_is_query">正在查找待备份的文件...</string>
     <string name="album_tv_loowerpower">电量较低，等待连接电源后开始备份</string>
-    <string name="album_backup_in_wifi_tips">仅在Wi-Fi下进行操作，不耗费流量</string>
-    <string name="album_auto_sync_to">相册自动备份（存至“%s”)</string>
-    <string name="album_auto_sync_dialog_title">相册自动备份(仅Wi-Fi)</string>
+    <string name="album_backup_in_wifi_tips">Переда только через Wi-Fi, трафик не расходуется!</string>
+    <string name="album_auto_sync_to">相册自动备份(存至\"%s\")</string>
+    <string name="album_auto_sync_dialog_title">Авто бэкап альбомов (по Wi-Fi)</string>
     <string name="album_auto_sync_good_time">随时随地收藏你的美好时光</string>
     <string name="start_album_backup_in_dialog">开启相册备份</string>
     <string name="logout">Выйти из аккаунта</string>
@@ -433,38 +433,37 @@
     <string name="message_email_share_to_limit">今日邮件分享到达上限20封</string>
     <string name="message_input_receiver_is_empty">请输入收件人地址</string>
     <string name="share_other">Поделиться с другом</string>
-    <string name="share_other_muti_item_text" formatted="false">Hi，我正在使用nubia云，给大家分享\"%s\"(等%d个文件)，快来看看吧~</string>
-    <string name="share_other_one_item_text">Hi，我正在使用nubia云，给大家分享\"%s\"，快来看看吧~</string>
-    <string name="share_weibo_text">(分享自@nubia云)</string>
+    <string name="share_other_muti_item_text" formatted="false">Привет, я открыл доступ к \"%s\" с помощью облака Nubia.(файл %d например). Попробуй это!</string>
+    <string name="share_other_one_item_text">Привет, я открыл доступ к \"%s\" с помощью облака Nubia. Проверь!</string>
     <string name="share_file_not_exist">找不到源文件，无法进行分享</string>
     <string name="share_error_msg_bind_error">你还未绑定邮箱或者手机号，无法分享</string>
     <string name="descr_image">Image</string>
-    <string name="sort_dialog_title">选择排序方式</string>
-    <string name="sort_by_filename_text">按文件名称排序</string>
-    <string name="sort_by_time_text">按时间排序</string>
+    <string name="sort_dialog_title">Сортировка</string>
+    <string name="sort_by_filename_text">По имени</string>
+    <string name="sort_by_time_text">По дате</string>
     <string name="choose_app_dialog_title">选择要使用的应用程序</string>
     <string name="open_app_failed">打开程序失败</string>
-    <string name="imagepager_bt_original">原图</string>
-    <string name="imagepager_bt_download">下载</string>
-    <string name="imagepager_bt_share">分享</string>
-    <string name="imagepager_bt_delete">删除</string>
-    <string name="imagepager_tv_pic_name">图片名称</string>
-    <string name="imagepager_error">图片预览失败</string>
-    <string name="added_in_download_list">已加入下载列表</string>
-    <string name="already_in_download_list">已在下载列表中，请耐心等待</string>
-    <string name="already_has_downloaded">已下载过此文件</string>
+    <string name="imagepager_bt_original">Оригинал</string>
+    <string name="imagepager_bt_download">Загрузить</string>
+    <string name="imagepager_bt_share">Поделиться</string>
+    <string name="imagepager_bt_delete">Удалить</string>
+    <string name="imagepager_tv_pic_name">Название</string>
+    <string name="imagepager_error">Предпросмотр не доступен</string>
+    <string name="added_in_download_list">Добавлен в список загрузки</string>
+    <string name="already_in_download_list">Уже в списке загрузки, подождите</string>
+    <string name="already_has_downloaded">Файл уже загружен</string>
     <string name="already_original_pic">已经是原图了</string>
-    <string name="image_preview_complete_percent">加载原图%d%%</string>
+    <string name="image_preview_complete_percent">Загрузка фото %d%%</string>
     <string name="image_preview_complete_size" formatted="false">(%s/%s)</string>
     <string name="ikonw">Я знаю</string>
-    <string name="download_alert_title">下载文件</string>
+    <string name="download_alert_title">Загрузка файла</string>
     <string name="download_content_replace_one_only">文件%s已存在当前目录中</string>
     <string name="download_content_replace_all">全部待下载文件已存在当前目录中</string>
     <string name="download_content_replace_many" formatted="false">%d个下载任务中有%d个已存在当前目录中</string>
-    <string name="download_replace_confirm">替换</string>
-    <string name="download_replace_cancel">不替换</string>
+    <string name="download_replace_confirm">Заменить</string>
+    <string name="download_replace_cancel">Отмена</string>
     <string name="download_replace_toast">已添加到传输列表，成功后为你替换</string>
-    <string name="download_folder_illegal">无法下载文件夹</string>
+    <string name="download_folder_illegal">Не удается загрузить папку</string>
     <string name="download_folder_illegal_others_deal">无法下载文件夹,是否继续下载其他文件？</string>
     <string name="backup_file_name">backup_%s</string>
     <string name="backup_index_file_name" formatted="false">backup(%d)_%s</string>
@@ -474,10 +473,10 @@
     <string name="upload_content_replace_many" formatted="false">%d个上传任务中有%d个已存在当前目录中</string>
     <string name="unsupported_file_to_open">不支持该类型文件预览</string>
     <string name="get_dlink_failed">获取地址失败</string>
-    <string name="install_video_player_plug_title">支持视频播放啦！</string>
-    <string name="install_video_player_plug_subtitle">各种格式，即点即看</string>
-    <string name="install_video_player_plug_button_close">不安装</string>
-    <string name="install_video_player_plug_button_install">安装视频插件</string>
+    <string name="install_video_player_plug_title">Ура, поддержка воспроизведения видео!</string>
+    <string name="install_video_player_plug_subtitle">Множество поддерживаемых форматов</string>
+    <string name="install_video_player_plug_button_close">Закрыть</string>
+    <string name="install_video_player_plug_button_install">Установить</string>
     <string name="open_video_file_tip">安装 &lt;u>&lt;font color=#357ed7>视频插件&lt;/font>&lt;/u>,边加载边观看.</string>
     <string name="open_video_file_button_install_toast">开始下载nubia云视频插件</string>
     <string name="notification_download_video_player_plugin_apk">nubia云视频插件</string>

@@ -50,7 +50,7 @@
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_activity_text">%1$s – часть следующего приложения:</string>
     <string name="uninstall_application_text">Удалить приложение?</string>
-    <string name="uninstall_application_text_all_users">Удалить это приложение для <b>всех</b> пользователей? После этого <b>ни один</b> пользователь устройства не будет иметь доступа к приложению и связанным с ним данным.</string>
+    <string name="uninstall_application_text_all_users">Удалить это приложение для <b>всех</b> пользователей? После этого <b>ниодин</b> пользователь устройства не будет иметь доступа к приложению и связанным с ним данным.</string>
     <string name="uninstall_update_text">Установить исходную версию приложения?</string>
     <string name="uninstalling">Удаление...</string>
     <string name="uninstall_done">Удаление завершено.</string>
