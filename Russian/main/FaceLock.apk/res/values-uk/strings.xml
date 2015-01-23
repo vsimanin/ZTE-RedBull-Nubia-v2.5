@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Фейсконтроль</string>
     <string name="receiver_app_name">Приймач для Фейсконтролю</string>
-    <string name="setup_app_name">Налаштування Фейсконтролю/string>
+    <string name="setup_app_name">Налаштування Фейсконтролю</string>
     <string name="enrollment_continue_label">Продовжити</string>
     <string name="enrollment_done_label">Готово</string>
     <string name="enrollment_initializing">Підготовка до роботи...</string>

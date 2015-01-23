@@ -33,7 +33,7 @@
     <string name="map_notif_connected">"Bluetooth доступ до повідомлення в \"%1$s\"."</string>
     <string name="map_notif_title">Ключ сесії запиту карти</string>
     <string name="map_notif_message">Торкніться, щоб підключитися до \"%1$s\".</string>
-    <string name="map_alert_conn_failed_message">Bluetooth з'єднання карти не вдалося.</string>
+    <string name="map_alert_conn_failed_message">Bluetooth з\'єднання карти не вдалося.</string>
     <string name="bluetooth_mas_request">Повідомлення запиту доступу</string>
     <string name="bluetooth_mas_acceptance_dialog_text">%1$s хотів би отримувати доступ до повідомлень. Дозволити доступ до %2$s?</string>
     <string name="sap_notif_ticker">Bluetooth запит доступу до SIM</string>

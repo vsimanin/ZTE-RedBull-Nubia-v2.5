@@ -139,7 +139,7 @@
     <string name="message_view_attachment_save_action">Зберегти</string>
     <string name="message_view_attachment_saved">Збережено</string>
     <string name="message_view_attachment_cancel_action">Стоп</string>
-    <string name="message_view_status_attachment_saved"Вкладення збережено як %s</string>
+    <string name="message_view_status_attachment_saved">Вкладення збережено як %s</string>
     <string name="message_view_status_attachment_not_saved">Файл не збережено</string>
     <string name="message_view_attachment_background_load">Вкладення у перенаправленому повідомленні будуть завантажені перед відправкою</string>
     <string name="message_view_show_message_action">Повідомлення</string>
