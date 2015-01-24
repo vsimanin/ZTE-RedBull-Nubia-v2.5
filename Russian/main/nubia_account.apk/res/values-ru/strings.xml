@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Аккаунт Nubia</string>
-    <string name="nubia_account_title">Учетная запиь Nubia</string>
+    <string name="nubia_account_title">Учетная запись Nubia</string>
     <string name="activity_account_intro_register_btn">Создать новую учетную запись</string>
     <string name="hello_world">Здравствуй мир!</string>
     <string name="menu_settings">Настройки</string>
     <string name="title_activity_main">ГлавнаяАктивность</string>
     <string name="activity_account_intro_login_btn">Логин</string>
     <string name="account_intro_title">Менеджер учетных записей nubia</string>
-    <string name="authenticator_label">Учетная запиь nubia</string>
+    <string name="authenticator_label">Учетная запись nubia</string>
     <string name="account">Учетная запись</string>
     <string name="account_note_title">Создав уч. запись вы сможете:</string>
     <string name="account_note_message">"Иметь свой облачный диск
