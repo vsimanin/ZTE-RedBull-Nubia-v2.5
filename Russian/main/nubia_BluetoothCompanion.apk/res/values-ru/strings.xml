@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="setting_activity">Настройка</string>
     <string name="accessibility_preference_summary">"Активируйте сервис уведомлений в Специальных возможностях. Это позволит BTNotification отображать уведомления из приложений."</string>
@@ -9,7 +9,7 @@
     <string name="welcome_1">Используйте Bluetooth Companion для звонков, отправки сообщений, прослушивания музыки</string>
     <string name="welcome_2">Не бойтесь потерять друг друга! Тревога сработает, когда Bluetooth Companion покинет зону действия</string>
     <string name="welcome_3">Используйте Bluetooth Companion для удаленного управления камерой Nubia</string>
-    <string name="using_tip">Bluetooth Companion позволяет удаленно управлять камерой(только для Nubia), отвечать на звонки, писать и отправлять сообщения, прослушивать музыку, находить друг друга, сообщать о потере устройства. Давай попробуем это!</string>
+    <string name="using_tip">Bluetooth Companion позволяет удаленно управлять камерой (только для Nubia), отвечать на звонки, писать и отправлять сообщения, прослушивать музыку, находить друг друга, сообщать о потере устройства. Давай попробуем это!</string>
     <string name="start">начать</string>
     <string name="string_connect">Соединить</string>
     <string name="string_nfc">Пара NFC</string>
