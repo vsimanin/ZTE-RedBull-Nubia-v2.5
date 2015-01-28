@@ -28,7 +28,7 @@
     <string name="section_register_registerfail">Помилка реєстрації</string>
     <string name="section_register_by_email_title">Email</string>
     <string name="section_register_by_mobile_title">Мобільний</string>
-    <string name="section_register_by_email_username">Ім/'я користувача:</string>
+    <string name="section_register_by_email_username">Ім\'я користувача:</string>
     <string name="section_register_by_email_email">E-mail:</string>
     <string name="section_register_by_email_password">Пароль:</string>
     <string name="section_register_by_email_register_button">Зареєструватися зараз</string>
