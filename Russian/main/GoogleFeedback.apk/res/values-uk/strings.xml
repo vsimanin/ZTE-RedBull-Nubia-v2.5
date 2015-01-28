@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Відгуки про Маркет</string>
+    <string name="feedback">Відгук</string>
+    <string name="report_feedback">Залишити відгук</string>
+    <string name="report_error_in">%s – відгук </string>
+    <string name="system_log">Журнал системи</string>
+    <string name="event_log">Журнал подій</string>
+    <string name="preview">Огляд</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Скасування</string>
+    <string name="send">Відправити</string>
+    <string name="preview_feedback">Предпросмотр відгуку</string>
+    <string name="no_data">Немає даних</string>
+    <string name="fetching_system_log">Завантаження системного журналу...</string>
+    <string name="fetching_event_log">Завантаження журналу подій...</string>
+    <string name="privacy">Конфіденційність</string>
+    <string name="include_system_data">Системні дані</string>
+    <string name="this_will_help">Надати Google системні дані для діагностики проблеми.</string>
+    <string name="privacy_policy"><a href="notused">Політика конфіденційності</a></string>
+    <string name="unknown_app">Невідома програма</string>
+    <string name="cant_save_report">Неможливо зберегти звіт про помилку. На пристрої недостатньо місця.</string>
+    <string name="report_being_sent">Звіт відправляється.</string>
+    <string name="optional_description">Опис</string>
+    <string name="screenshot_preview">Перегляд скриншоту</string>
+    <string name="include_screenshot">Приєднати скріншот</string>
+    <string name="this_will_help_screenshot">Відправити скріншот останньої сторінки, на якій ви були.</string>
+    <string name="privacy_information">Конфіденційність</string>
+    <string name="privacy_info_text">Ви погоджуєтесь, що Google може використовувати ваш відгук для поліпшення якості наданих продуктів і послуг. Використання відгуків регулюється політикою конфіденційності (http://www.google.com/mobile/privacy.html). Google має права передавати інформацію, отриману від вас за допомогою форми для відгуків, розробникам даного застосування. У цьому випадку сторонні розробники зможуть використовувати ваш відгук відповідно до їх власною політикою конфіденційності.</string>
+    <string name="how_is_my_info_stored"> Як зберігається і використовується моя інформація?</string>
+    <string name="choose_an_account">Оберіть акаунт</string>
+    <string name="user_account">Акаунт користувача</string>
+    <string name="anonymous">Анонімно</string>
+    <string name="tos_activity_title">Інформація Google</string>
+    <string name="tos_activity_unsuccessful_message">Пристрій не підключено до Інтернету. Щоб переглянути цю інформацію, відкрийте сторінку %s на будь-якому комп\'ютері з інтернет-доступом.</string>
+    <string name="tos_accept">Прийняти</string>
+    <string name="tos_decline">Відхилити</string>
+</resources>
