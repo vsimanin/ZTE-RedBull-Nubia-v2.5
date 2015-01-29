@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Брелок</string>
+    <string name="title_no_certs">Сертифікати не знайдені</string>
+    <string name="title_select_cert">Вибір сертифіката</string>
+    <string name="requesting_application">Програма %s запросило сертифікат. Виберіть сертифікат, щоб дозволити програмі використовувати це посвідчення для серверів зараз і в майбутньому.</string>
+    <string name="requesting_server">Додаток ідентифікував запитування серверу як %s.  Однак якщо воно є довіреною, вам всього лише необхідно надати йому доступ до сертифікату.</string>
+    <string name="install_new_cert_message">Можна встановити сертифікати з файлу PKCS#12 з розширенням %1$s або %2$s, який знаходиться в зовнішньому сховищі.</string>
+    <string name="install_new_cert_button_label">Встановити</string>
+    <string name="allow_button">Дозволити</string>
+    <string name="deny_button">Відхилити</string>
+</resources>
