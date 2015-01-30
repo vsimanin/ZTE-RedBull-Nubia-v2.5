@@ -235,5 +235,5 @@
     <string name="capital_off">off</string>
     <string name="digital_hour_number_set">%d</string>
     <string name="alarm_clock_settings">Настройка</string>
-    <string name="poweroff_alarm">Выключить сигнал</string>
+    <string name="poweroff_alarm">Запуск на выключенном устройстве</string>
 </resources>
