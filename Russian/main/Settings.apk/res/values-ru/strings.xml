@@ -946,7 +946,7 @@
     <string name="tether_settings_title_all">Режим модема</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">USB-модем</string>
-    <string name="usb_tethering_available_subtext">USB-связь установлена, установите флажок для подключения</string>
+    <string name="usb_tethering_available_subtext">USB-подключение установлено, можно использовать</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_storage_active_subtext">Невозможно подключиться при использовании USB-накопителя</string>
     <string name="usb_tethering_unavailable_subtext">USB-подключения не обнаружено</string>
