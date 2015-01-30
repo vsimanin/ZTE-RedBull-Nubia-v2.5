@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Сервис DLNA</string>
     <string name="action_settings">Параметры</string>
@@ -20,7 +20,7 @@
     <string name="connect_anthor_title">Изменение медиа-плеера</string>
     <string name="connect_anthor_body">Вы уверены, что хотите отсоединить ваш медиа-плеер и изменить ещё один?</string>
     <string name="search_hint_image">Поиск изображений</string>
-    <string name="search_hint_audio">Поиск музыки,исполнителей и альбомов.</string>
+    <string name="search_hint_audio">Поиск музыки, исполнителей и альбомов.</string>
     <string name="search_hint_video">Поиск видео</string>
     <string name="search_hint_server">Поиск мультимедийных файлов</string>
     <string name="no_render_connected">Медиа-плеер не подключен</string>
