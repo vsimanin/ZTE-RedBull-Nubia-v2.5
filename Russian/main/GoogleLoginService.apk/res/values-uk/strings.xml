@@ -308,7 +308,7 @@
     <string name="account_setup_title">Акаунт Google</string>
     <string name="login_activity_title">Увійти</string>
     <string name="relogin_activity_title">Підтвердіть пароль</string>
-    <string name="show_error_activity_title"Вхід не виконано</string>
+    <string name="show_error_activity_title">Вхід не виконано</string>
     <string name="login_activity_task_title">Вхід в систему...</string>
     <string name="login_activity_task_msg">Це може зайняти кілька хвилин.</string>
     <string name="prepare_account_setup_task_title">Підготовка акаунту…</string>
