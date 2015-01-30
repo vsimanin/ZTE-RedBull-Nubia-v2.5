@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заставки</string>
+    <string name="table_screensaver_name">Колаж</string>
+    <string name="flipper_screensaver_name">Рамка</string>
+    <string name="posts_album_name">Фотоіз записів</string>
+    <string name="unknown_album_name">Альбом без назви</string>
+    <string name="stock_photo_album_name">Знімки з фотобанків</string>
+    <string name="local_source_name">Фото на пристрої</string>
+    <string name="need_to_configure">Нічого не вbбрано</string>
+    <string name="photodream_select_all">Вибрати все</string>
+    <string name="photodream_select_none">Скасувати всs</string>
+    <string name="no_photos">Немає фотографій на пристрої.</string>
+</resources>
