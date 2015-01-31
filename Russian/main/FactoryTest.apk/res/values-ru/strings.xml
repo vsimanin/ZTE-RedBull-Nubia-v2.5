@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Заводской тест</string>
     <string name="quicktest_begin">Быстрый тест</string>
@@ -20,9 +20,9 @@
     <string name="quicktest_speaker">Динамик</string>
     <string name="quicktest_earphone">Наушники</string>
     <string name="quicktest_earphone_plug">Наушники подключены!</string>
-    <string name="quicktest_earphone_unplug">Пожалуйста, вставьте ваши наушники 3 или 4 секции! И убедитесь, что наушники полностью совместим с вашим телефоном.</string>
+    <string name="quicktest_earphone_unplug">Пожалуйста, вставьте ваши наушники 3-х или 4-х секционные! И убедитесь, что наушники полностью совместим с вашим телефоном.</string>
     <string name="quicktest_earphone_hook_press">Пожалуйста, нажмите кнопку вызова</string>
-    <string name="quicktest_earphone_hook_pressed">Нажатие клавиши hook</string>
+    <string name="quicktest_earphone_hook_pressed">Нажатие клавиши вызова</string>
     <string name="quicktest_keypad_guide">Пожалуйста пользуйтесь физическими кнопками одной за другой, если все нормально значок исчезнет.</string>
     <string name="quicktest_keypad">Клавиатура</string>
     <string name="quicktest_keypad_phone">телефон</string>
@@ -93,10 +93,10 @@
     <string name="quicktest_camera_not_respond">Камера не отвечает, нажмите клавишу камеры, чтобы продолжить.</string>
     <string name="quicktest_flashlight">Фонарик</string>
     <string name="quicktest_touch">Сенсорная панель</string>
-    <string name="quicktest_auto_tp_test_success">Авто тест TP успешен!</string>
+    <string name="quicktest_auto_tp_test_success">Авто тест телефона успешен!</string>
     <string name="quicktest_auto_tp_test_fail">Не поддерживается автоматический тест сенсорного экрана, пожалуйста, сделайте это самостоятельно.</string>
     <string name="quicktest_breathlight">Дыхание света</string>
-    <string name="quicktest_loopback">Loopback</string>
+    <string name="quicktest_loopback">Замыкание</string>
     <string name="quicktest_compass">Компас</string>
     <string name="quicktest_compass_accuracy_level_low">низкий</string>
     <string name="quicktest_compass_accuracy_level_mid">средний</string>
@@ -153,7 +153,7 @@
     <string name="quicktest_gsensor_portrait_orientation_done">Портретный режим выбран.</string>
     <string name="quicktest_gsensor_landscape_orientation_done">Ландшафтный режим выбран.</string>
     <string name="quicktest_gsensor_horizontal_orientation_done">Горизонтальный режим выбран.</string>
-    <string name="quicktest_gsensor_info">пожалуйста переведите телефон в портретный режим,ландшафтный режим и положите его на ровное место.</string>
+    <string name="quicktest_gsensor_info">пожалуйста переведите телефон в портретный режим, ландшафтный режим и положите его на ровное место.</string>
     <string name="quicktest_proxsensor">Датчик приближения</string>
     <string name="quicktest_proxsensor_hand_up">Положите вашу руку! Если активность не заканчивается, пожалуйста, заново откалибруйте датчик.</string>
     <string name="quicktest_proxsensor_hand_down">Положите вашу руку!</string>
@@ -214,9 +214,9 @@
     <string name="quicktest_lightsensor_signal_title">Сигнал:</string>
     <string name="quicktest_lightsensor_level_title">Уровень</string>
     <string name="quicktest_lightsensor_no_levels">Никаких уровней</string>
-    <string name="quicktest_lightsensor_info">"Пожалуйста, измените света среды для тестирования.
-Красный Уровень показать текущий уровень освещения.
-Зеленый указывают на то, что уровень достиг."</string>
+    <string name="quicktest_lightsensor_info">"Пожалуйста, измените тип освещения для тестирования.
+Красный Уровень показывает текущий уровень освещения.
+Зеленый указывет на то, что уровень достиг."</string>
     <string name="quicktest_nfc">NFC</string>
     <string name="quicktest_nfc_check">Проверить прошивки</string>
     <string name="quicktest_nfc_done">Сделано</string>
@@ -256,10 +256,10 @@
     <string name="quicktest_mhl_unplug">MHL не подключен!</string>
     <string name="quicktest_gesture">Жест</string>
     <string name="gesture_data_error">Ошибка данных!</string>
-    <string name="gesture_left_to_right">Повернуть ваше устройства слева направо!</string>
-    <string name="gesture_right_to_left">Повернуть ваше устройства справа налево!</string>
-    <string name="gesture_up_to_down">Опустить ваше устройства сверху вниз!</string>
-    <string name="gesture_down_to_up">Поднять ваше устройства от вниз вверх!</string>
+    <string name="gesture_left_to_right">Поверните ваше устройство слева направо!</string>
+    <string name="gesture_right_to_left">Поверните ваше устройство справа налево!</string>
+    <string name="gesture_up_to_down">Опустите ваше устройство сверху вниз!</string>
+    <string name="gesture_down_to_up">Поднимите ваше устройство снизу вверх!</string>
     <string name="quicktest_threemic">Multi-MIC</string>
     <string name="quicktest_threemic_mic1">MIC 1:</string>
     <string name="quicktest_threemic_mic2">MIC 2:</string>

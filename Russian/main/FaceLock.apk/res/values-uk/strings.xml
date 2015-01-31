@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фейсконтроль</string>
+    <string name="receiver_app_name">Приймач для Фейсконтролю</string>
+    <string name="setup_app_name">Налаштування Фейсконтролю</string>
+    <string name="enrollment_continue_label">Продовжити</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Підготовка до роботи...</string>
+    <string name="enrollment_start_message">Обличча повинно бути в центрі.</string>
+    <string name="error_no_face">Обличча не видно</string>
+    <string name="enrollment_missing_landmarks">Риси обличча не помітні.</string>
+    <string name="enrollment_missing_landmarks_status">Не вдалося розпізнати риси обличча</string>
+    <string name="enrollment_off_center_status">Частину обличча не видно</string>
+    <string name="enrollment_done">Готово!</string>
+    <string name="tutorial_app_name">Про Фейсконтроль</string>
+    <string name="tutorial_header">Щоб розблокувати екран, подивітся в камеру телефону.</string>
+    <string name="tutorial_info_text">"Зверніть увагу:
+
+"<li><ul>"функція \"Фейсконтроль\" менш надійна, ніж графічний ключ, PIN-код чи пароль;
+
+"<li>розблокувати телефон може будь-яка схожа на Вас людина;</li>"
+
+"<li>Ваші ідентифікаційні дані зберігаються в телефоні в обмеженому доступі.</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">Налаштувати</string>
+    <string name="intro_header">Як досягти оптимальних результатів</string>
+    <string name="intro_info_text">" "<li><ul>"Знайдіть в приміщенні місце, де не дуже яскраве світло, але й не дуже темно.
+
+ "<li>Тримайте телефон на рівні очей.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Далі</string>
+    <string name="endscreen_header">Все готово!</string>
+    <string name="endscreen_info_text">"Щоб розблокувати телефон, достатьньо подивитися на нього.
+
+Порада: щоб підвищити точність розпізнавання обличча, сфотографуйтесь при різних умовах освітленості, на різному фоні і т. п."</string>
+    <string name="endscreen_continue_label">ОК</string>
+    <string name="addtosetup_app_name">Налаштування розпізнавання</string>
+    <string name="addtosetup_header">Сфотографуйтесь в різних умовах.</string>
+    <string name="addtosetup_info_text">"Прклади
+
+ "<li><ul>"При різному освітленні
+
+ "<li>В окулярах та без</li>"
+
+ "<li>В капелюсі та без</li>"
+
+ "</ul></li>"
+Тримайте телефон на рівні очей."</string>
+    <string name="addtosetup_continue_label">Далі</string>
+    <string name="service_app_name">Фейсконтроль</string>
+    <string name="service_face_not_found">Обличча не розпізнане</string>
+    <string name="service_not_a_match">Я не впізнаю Вас в гримі</string>
+    <string name="service_liveliness_start">Кліпніть</string>
+    <string name="service_liveliness_timeout">Кліпання не зареєстровано</string>
+    <string name="service_low_ligthing">Погане освітлення</string>
+    <string name="shared_initialize_error">Не вдалося запустити Фейсконтроль</string>
+    <string name="shared_camera_error">Не вдалося відкрити Камеру</string>
+    <string name="shared_read_gallery_error">Повторіть налаштування</string>
+    <string name="shared_cancel_label">Скасувати</string>
+</resources>
