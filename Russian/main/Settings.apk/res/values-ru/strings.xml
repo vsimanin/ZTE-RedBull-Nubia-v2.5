@@ -949,7 +949,7 @@
     <string name="usb_tethering_available_subtext">USB-подключение установлено, можно использовать</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_storage_active_subtext">Невозможно подключиться при использовании USB-накопителя</string>
-    <string name="usb_tethering_unavailable_subtext">USB-подключения не обнаружено</string>
+    <string name="usb_tethering_unavailable_subtext">USB-подключение отсутствует</string>
     <string name="usb_tethering_errored_subtext">Ошибка подключения USB</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
     <string name="bluetooth_tethering_available_subtext">Включен</string>
@@ -957,7 +957,7 @@
     <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение телефона используется %1$d устройствами</string>
     <string name="bluetooth_tethering_off_subtext">Выключен</string>
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
-    <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
+    <string name="bluetooth_tethering_overflow_error">Максимум подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="network_settings_title">Мобильная сеть</string>
