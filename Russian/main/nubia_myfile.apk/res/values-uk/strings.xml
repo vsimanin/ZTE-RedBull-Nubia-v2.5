@@ -65,7 +65,7 @@
     <string name="operation_pasting">Вставка…</string>
     <string name="operation_refresh">Поновити</string>
     <string name="operation_rename">Перейменувати</string>
-    <string name="operation_rename_message">Введіть нове ім'я</string>
+    <string name="operation_rename_message">Введіть нове ім\'я</string>
     <string name="operation_selectall">Виділити всі</string>
     <string name="operation_send">Відправити</string>
     <string name="operation_show_sys">Показувати сховані файли</string>
