@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Пристрої введення</string>
+    <string name="keyboard_layouts_label">Клавіатура Android</string>
+    <string name="keyboard_layout_english_uk_label">Англійська (Великобританія)</string>
+    <string name="keyboard_layout_english_us_label">Англійська (США)</string>
+    <string name="keyboard_layout_english_us_intl">Англійська (США, міжнародна)</string>
+    <string name="keyboard_layout_english_us_colemak_label">Англійська (США, Colemak)</string>
+    <string name="keyboard_layout_english_us_dvorak_label">Англійська (США, Dvorak)</string>
+    <string name="keyboard_layout_german_label">Німецький</string>
+    <string name="keyboard_layout_french_label">Французький</string>
+    <string name="keyboard_layout_french_ca_label">Французький (Канада)</string>
+    <string name="keyboard_layout_russian_label">Русский</string>
+    <string name="keyboard_layout_russian_mac_label">Русский (Mac)</string>
+    <string name="keyboard_layout_spanish_label">Іспанська</string>
+    <string name="keyboard_layout_swiss_french_label">Французький (Швейцарія)</string>
+    <string name="keyboard_layout_swiss_german_label">Німецька (Швейцарія)</string>
+    <string name="keyboard_layout_belgian">Нідерландський (Бельгія)</string>
+    <string name="keyboard_layout_bulgarian">Болгарський</string>
+    <string name="keyboard_layout_italian">Італійський</string>
+    <string name="keyboard_layout_danish">Данська</string>
+    <string name="keyboard_layout_norwegian">Норвезька</string>
+    <string name="keyboard_layout_swedish">Шведський</string>
+    <string name="keyboard_layout_finnish">Фінський</string>
+    <string name="keyboard_layout_croatian">Хорватська</string>
+    <string name="keyboard_layout_czech">Чеський</string>
+    <string name="keyboard_layout_estonian">Естонська</string>
+    <string name="keyboard_layout_hungarian">Угорський</string>
+    <string name="keyboard_layout_icelandic">Ісландський</string>
+    <string name="keyboard_layout_brazilian">Бразильський</string>
+    <string name="keyboard_layout_portuguese">Португальська (Бразилія)</string>
+    <string name="keyboard_layout_slovak">Словацька</string>
+    <string name="keyboard_layout_slovenian">Словенська</string>
+    <string name="keyboard_layout_turkish">Турецький</string>
+    <string name="keyboard_layout_ukrainian">Український</string>
+</resources>

@@ -109,6 +109,7 @@
     <string name="timer_add_timer">Добавить таймер</string>
     <string name="timer_start">Старт</string>
     <string name="timer_delete">Удалить</string>
+    <string name="timer_red">На виджет</string>
     <string name="timer_plus_one">Добавить 1 минуту</string>
     <string name="timer_stop">Стоп</string>
     <string name="timer_reset">Сброс</string>
@@ -224,8 +225,8 @@
     <string name="tts">TTS</string>
     <string name="tts_summary">TTS tips</string>
     <string name="no_snooze">Без отсрочки</string>
-    <string name="no_worldtime">Не выбран город!</string>
-    <string name="worldtime_selected">Выбраны %d</string>
+    <string name="no_worldtime">Город не выбран</string>
+    <string name="worldtime_selected">Выбрано %d</string>
     <string name="select_all">Выбрать все</string>
     <string name="unselect_all">Снять все</string>
     <string name="delete_title">Удалить</string>
@@ -234,5 +235,5 @@
     <string name="capital_off">off</string>
     <string name="digital_hour_number_set">%d</string>
     <string name="alarm_clock_settings">Настройка</string>
-    <string name="poweroff_alarm">Выключить сигнал</string>
+    <string name="poweroff_alarm">Запуск на выключенном устройстве</string>
 </resources>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_list_storage">
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="installed_operation">
+        <item>Відкрити</item>
+        <item>Поділитися</item>
+        <item>Деінсталювати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="uninstalled_operation">
+        <item>Встановити</item>
+        <item>Поділитися</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="cloud_installed_operation">
+        <item>Відкрити</item>
+        <item>Поділитися</item>
+        <item>Деінсталювати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="cloud_uninstalled_operation">
+        <item>Встановити</item>
+        <item>Поділитися</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="pic_set_as">
+        <item>Фото контакту</item>
+        <item>Шпалери робочого столу</item>
+    </string-array>
+    <string-array name="music_set_as">
+        <item>Мелодія дзвінка</item>
+        <item>Сигнал повідомлення</item>
+    </string-array>
+</resources>

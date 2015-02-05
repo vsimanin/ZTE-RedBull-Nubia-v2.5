@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_scanning">Пошук…</string>
+    <string name="search_networks">Пошук мереж</string>
+    <string name="no_network">Мережі не знайдені.</string>
+    <string name="select_automatically">Автоматично</string>
+    <string name="sum_select_automatically">Автоматично вибирати предпочтительную мережу</string>
+    <string name="available_networks">Доступні мережі</string>
+    <string name="register_on_network">Реєстрація в %1$s…</string>
+    <string name="register_automatically">Автоматична реєстрація...</string>
+    <string name="network_query_error">Помилка пошуку мереж.</string>
+    <string name="not_allowed">Ваша SIM-карта не підтримує підключення до цієї мережі.</string>
+    <string name="connect_later">Не вдалось підключитися до цієї мережі. Повторіть спробу пізніше.</string>
+    <string name="quit_mention">Увага!</string>
+    <string name="dialog_message">Вихід припинить пошук. Впевнені, що хочете вийти?</string>
+    <string name="timeout_message">Немає доступних мереж.</string>
+    <string name="registration_done">Запеэстрован в мережі.</string>
+    <string name="China_Mobile">China Mobile</string>
+    <string name="China_Unicom">China Unicom</string>
+    <string name="China_Telecom">China Telecom</string>
+    <string name="roamingTextSearching">Пошук служби</string>
+    <string name="network_forbidden">(Заборонений)</string>
+</resources>

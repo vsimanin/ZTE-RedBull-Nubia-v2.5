@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Аккаунт Nubia</string>
-    <string name="nubia_account_title">Учетная запиь Nubia</string>
+    <string name="nubia_account_title">Учетная запись Nubia</string>
     <string name="activity_account_intro_register_btn">Создать новую учетную запись</string>
     <string name="hello_world">Здравствуй мир!</string>
     <string name="menu_settings">Настройки</string>
-    <string name="title_activity_main">ГлавнаяАктивность</string>
+    <string name="title_activity_main">Главная Активность</string>
     <string name="activity_account_intro_login_btn">Логин</string>
     <string name="account_intro_title">Менеджер учетных записей nubia</string>
-    <string name="authenticator_label">Учетная запиь nubia</string>
+    <string name="authenticator_label">Учетная запись nubia</string>
     <string name="account">Учетная запись</string>
     <string name="account_note_title">Создав уч. запись вы сможете:</string>
     <string name="account_note_message">"Иметь свой облачный диск
@@ -35,7 +35,7 @@
     <string name="section_register_by_email_register_note">Пожалуйста введите корректный email адрес, с его помощью вы сможете восстановить утерянный пароль</string>
     <string name="section_register_by_email_username_error">Для имени пользователя необходимо ввести от 4 до 15 символов</string>
     <string name="section_register_by_email_email_error">Пожалуйста введите корректный адрес email</string>
-    <string name="section_register_by_email_password_error">Пароль иметь длину от 6 до 32 символов</string>
+    <string name="section_register_by_email_password_error">Пароль должен иметь длину от 6 до 32 символов</string>
     <string name="section_register_by_email_confirm_password_error">Подтверждение пароля должно иметь длину от 6 до 32 символов</string>
     <string name="section_register_by_email_confirm_password_not_equal_error">Пароли не идентичны</string>
     <string name="section_register_by_email_safe_answer_error">Безопасный вопрос не может оставаться пустым</string>
@@ -107,7 +107,7 @@
     <string name="recovery_by_email_note_02">Когда вы получите письмо, перезагрузите вашу учетную запись вашей nubia</string>
     <string name="authcode_has_already_send">Код активации отправлен сообщением на номер</string>
     <string name="recovery_by_mobile_acquire_authcode">Подтверждение имени пользователя…</string>
-    <string name="recovery_by_mobile_new_password_hint">Новый пароль(от 6 до 32 символов)</string>
+    <string name="recovery_by_mobile_new_password_hint">Новый пароль (от 6 до 32 символов)</string>
     <string name="recovery_by_mobile_confirm_password_hint">Подтверждение пароля</string>
     <string name="recovery_by_mobile_authcode_hint">Код активации</string>
     <string name="recovery_by_mobile_commit">Создание нового пароля…</string>
@@ -123,13 +123,13 @@
     <string name="recovery_by_email_acquire_reset_email">Сброс привязки email…</string>
     <string name="recovery_by_email_acquire_reset_email_error">Ошибка сброса email</string>
     <string name="section_recovery_username">E-mail / Мобильный</string>
-    <string name="section_recovery_password_error">Ошибка пароля(от 6 до 32 символов)</string>
+    <string name="section_recovery_password_error">Ошибка пароля (от 6 до 32 символов)</string>
     <string name="section_recovery_confirm_password_error">Ошибка подтверждения пароля</string>
     <string name="section_register_by_email_username_exist">Имя пользователя уже существует</string>
     <string name="section_register_by_email_email_exist">Email уже существует!</string>
     <string name="section_register_by_mobile_number_exist_error">Мобильный номер уже существует!</string>
     <string name="login_user_null_error">Пожалуйста введите имя пользователя</string>
-    <string name="login_username_error">Ошибка имени пользователя(от 4 до 15 символов)</string>
+    <string name="login_username_error">Ошибка имени пользователя (от 4 до 15 символов)</string>
     <string name="login_email_error">Ошибка формата email или превышена длина в 40 символов</string>
     <string name="login_mobile_error">Мобильный недоступен</string>
     <string name="login_password_error">Неверный пароль</string>

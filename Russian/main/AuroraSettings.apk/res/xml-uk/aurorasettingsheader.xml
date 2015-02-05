@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Налаштування Aurora>
+<PreferenceScreen android:title="Налаштування рядка стану" android:summary="Розширені можливості кастомізації рядка стану">
+<PreferenceCategory android:title="Основні">
+<CheckBoxPreference android:title="Блокування в рядку стану" android:key="aurora_statusbar_show_powerkey" android:defaultValue="true" android:summaryOn="Блокування натисканням в правому кутку рядка стану включена" android:summaryOff="Блокування натисканням в правому кутку рядка стану відключена" />
+<CheckBoxPreference android:title="Детальне відображення часу в рядку стану" android:key="aurora_statusbar_show_timedetail" android:summary="Зміни будуть застосовані після перезавантаження" android:defaultValue="true" />
+<CheckBoxPreference android:title="Блокування подвійним натисканням" android:key="aurora_statusbar_double_tap_sleep" android:defaultValue="true" android:summaryOn="Блокування подвійним натисканням у рядку стану включена" android:summaryOff="Блокування подвійним натисканням у рядку стану відключена" />
+</PreferenceCategory>
+<PreferenceCategory android:title="Швидкість передачі даних">
+<ListPreference android:entries="@array/networkspeed_entries" android:title="Відображення швидкості передачі даних в рядку стану" android:key="aurora_statusbar_show_netspeed" android:defaultValue="3" android:entryValues="@array/networkspeed_values" />
+</PreferenceCategory>
+<PreferenceCategory android:title="Батарея">
+<CheckBoxPreference android:title="Стиль значка батареї" android:key="aurora_statusbar_show_battery32" android:defaultValue="true" android:summaryOn="Вибрати стиль відображення значка батареї" android:summaryOff="Використовувати оригінальний значок батареї" />
+<Preference android:enabled="true" android:title="Вибрати стиль відображення значка батареї" android:key="aurora_statusbar_show_selectbattery32">
+<intent android:targetPackage="com.ghareeb.battery" android:action="com.ghareeb.battery.Settings" android:targetClass="com.ghareeb.battery.Settings" />
+</Preference>
+</PreferenceCategory>
+</PreferenceScreen>
+<PreferenceScreen android:title="Налаштування шторки стану" android:summary="Налаштування додаткових функцій в розкривається шторці стану.">
+<PreferenceCategory android:title="Налаштування шторки стану">
+<CheckBoxPreference android:title="8 додаткових функцій" android:key="aurora_statusbar_show_8key" android:defaultValue="true" android:summaryOn="Відображати 8 додаткових функцій в розкривається шторці стану" android:summaryOff="Сховати 8 додаткових функцій в розкритій шторці стану" />
+<CheckBoxPreference android:title="6 додаткових функцій" android:key="aurora_statusbar_show_6key" android:defaultValue="false" android:summaryOn="Відображати 6 додаткових функцій в розкривається шторці стану" android:summaryOff="Сховати 6 додаткових функцій в розкритій шторці стану" />
+<CheckBoxPreference android:title="Моніторинг CPU" android:key="aurora_statusbar_show_cpumonitor" android:defaultValue="true" android:summaryOn="Відображати компоненти моніторингу процесора в розкривається шторці" android:summaryOff="Сховати компоненти моніторингу процесора в розкритій шторці" />
+</PreferenceCategory>
+</PreferenceScreen>
+<PreferenceScreen android:title="Налаштування екрану блокування" android:summary="Розширені налаштування екрану блокування">
+<PreferenceCategory android:title="Налаштування екрану блокування">
+<CheckBoxPreference android:title="Включити розширені налаштування екрану блокування" android:key="aurora_lockscreen_show_timedetail" android:defaultValue="true" />
+</PreferenceCategory>
+</PreferenceScreen>
+<PreferenceScreen android:title="Системні налаштування" android:summary="Розширені налаштування системи (пробудження кнопками гучності, ефект виключення екрану)">
+<PreferenceCategory android:title="Системні налаштування">
+<CheckBoxPreference android:title="Ефект відключення CRT монітора" android:key="aurora_lockscreen_crtoff" android:defaultValue="false" android:summaryOn="Ефект відключення CRT монітора включений" android:summaryOff="Эффект отключения CRT монитора отключен" />
+<CheckBoxPreference android:title="Пробудження кнопками гучності" android:key="aurora_volumekey_wakeup" android:defaultValue="true" android:summaryOn="Функція пробудження телефону натисканням кнопок гучності включена (набере чинності після перезавантаження)" android:summaryOff="Функція пробудження телефону натисканням кнопок гучності відключена (набере чинності після перезавантаження)" />
+</PreferenceCategory>
+</PreferenceScreen>
+</PreferenceCategory>
+</PreferenceScreen>

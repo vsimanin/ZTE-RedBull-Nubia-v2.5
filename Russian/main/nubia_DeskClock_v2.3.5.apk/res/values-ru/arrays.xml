@@ -279,6 +279,28 @@
         <item>Мэдисон</item>
         <item>Хайдарабад</item>
         <item>Рестон</item>
+		<item>Чихуахуа</item>
+		<item>Реджайна</item>
+		<item>Манаус</item>
+		<item>Сантьяго</item>
+		<item>Гренландия</item>
+		<item>Средне-Атлантические штаты</item>
+		<item>Азорские острова</item>
+		<item>Виндхук</item>
+		<item>Тбилиси</item>
+		<item>Ереван</item>
+		<item>Уральск</item>
+		<item>Шри-Ланка</item>
+		<item>Екатеринбург</item>
+		<item>Красноярск</item>
+		<item>Иркутск</item>
+		<item>Якутск</item>
+		<item>Хобарт</item>
+		<item>Владивосток</item>
+		<item>Маршалловы острова</item>
+		<item>Магадан</item>
+		<item>Тонга</item>
+		<item>Мидуэй</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>Через</item>

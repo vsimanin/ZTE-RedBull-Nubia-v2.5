@@ -3,12 +3,12 @@
     <string name="app_name">Обратная связь</string>
     <string name="exception_title">Описание ошибки:</string>
     <string name="exception_title_hint">Опишите возникшую проблему</string>
-    <string name="exception_steps">Список действий:</string>
-    <string name="exception_steps_hint">Распишите шаги, приведшие к возникновению проблемы</string>
+    <string name="exception_steps">Ваши действия:</string>
+    <string name="exception_steps_hint">Укажите действия, вызвавшие ошибку</string>
     <string name="exception_info">Журнал ошибки:</string>
     <string name="but_send">Отправить</string>
     <string name="but_cancel">Отмена</string>
     <string name="setting_wiless_btn">Настройки</string>
     <string name="setting_wiless_title">Подключение</string>
-    <string name="setting_wiless_message">Телефон должен быть подключен к Интернету ддя отправки лога. После подключения к сети, журнал ошибки отправится автоматически.</string>
+    <string name="setting_wiless_message">Телефон должен быть подключен к Интернету для отправки лога. После подключения к сети, журнал ошибки отправится автоматически.</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
     <string name="category_all">Все</string>
@@ -96,7 +96,7 @@
     <string name="pref_primary_folder">Корневая папка</string>
     <string name="pref_read_root">Читать корень</string>
     <string name="default_primary_folder">/storage/sdcard0</string>
-    <string name="pref_primary_folder_summary">Папка которая появляется при запуске приложения, с текщим значением %1$s</string>
+    <string name="pref_primary_folder_summary">Папка которая появляется при запуске приложения, с текущим значением %1$s</string>
     <string name="app_name">Мои файлы</string>
     <string name="visit">посетить</string>
     <string name="synchronize">синхронизировать</string>
@@ -115,13 +115,13 @@
     <string name="operation_tag">Тег</string>
     <string name="operation_detail">Детали</string>
     <string name="operation_list">Список</string>
-    <string name="operation_grid">Сетка</string>
-    <string name="operation_set_as_ringtone">Установить как мелодию звонка</string>
+    <string name="operation_grid">Плитка</string>
+    <string name="operation_set_as_ringtone">Установить на звонок</string>
     <string name="operation_search">Поиск</string>
     <string name="operation_share">Передать</string>
     <string name="zip_success">%s создан</string>
-    <string name="zip_failure">Не удалось заархивировать, потому что имя файла или папки пуст</string>
-    <string name="zip_need_rename">Zip-файл существует, переименуйте перед архивированием снова</string>
+    <string name="zip_failure">Не удалось архивировать, имя файла или папки пустое</string>
+    <string name="zip_need_rename">Zip-файл с таким именем уже существует</string>
     <string name="unzip_success">%s разархивирован</string>
     <string name="apk_installed">Установлены</string>
     <string name="apk_uninstalled">Удалены</string>
@@ -161,7 +161,7 @@
     <string name="password_error">Неверный пароль, попробуйте ещё раз.</string>
     <string name="click_to_input">Введите здесь.</string>
     <string name="strongbox_not_ready">Секретный StrongBox не готов.</string>
-    <string name="init_strongbox">StrongBox не инициализироват, пожалуйста сперва зайдите в StrongBox.</string>
+    <string name="init_strongbox">StrongBox не инициализирован, пожалуйста сперва зайдите в StrongBox.</string>
     <string name="illegal_access_errot_strongbox">Времменой лимит исчерпан, пожалуйста попробуйте снова.</string>
     <string name="security_exception_tip">Дата или время неверные, пожалуйста изменитенастройки даты и времени.</string>
     <string name="apk_size">Размер:</string>

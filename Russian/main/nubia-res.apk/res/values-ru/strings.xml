@@ -27,8 +27,8 @@
     <string name="nubia_res_date_picker_decrement_day_button">Уменьшенить день</string>
     <string name="nubia_res_date_picker_increment_year_button">Увеличить год</string>
     <string name="nubia_res_date_picker_decrement_year_button">Уменьшенить год</string>
-    <string name="nubia_res_time_picker_dialog_title">Установить время</string>
-    <string name="nubia_res_date_picker_dialog_title">Установить дату</string>
+    <string name="nubia_res_time_picker_dialog_title">Установка времени</string>
+    <string name="nubia_res_date_picker_dialog_title">Установка даты</string>
     <string name="nubia_res_date_time_set">Установить</string>
     <string name="nubia_res_date_time_done">Готово</string>
     <string name="nubia_res_time_picker_separator">:</string>
@@ -37,4 +37,10 @@
     <string name="nubia_res_date_picker_separator_month" />
     <string name="nubia_res_date_picker_separator_day" />
     <string name="nubia_common_label">cn.nubia</string>
+    <string name="nubia_setting_date">Установка даты</string>
+    <string name="nubia_date_year">Год</string>
+    <string name="nubia_date_month">Месяц</string>
+    <string name="nubia_date_day">День</string>
+    <string name="nubia_time_hour">Ч.</string>
+    <string name="nubia_time_minute">Мин.</string>
 </resources>

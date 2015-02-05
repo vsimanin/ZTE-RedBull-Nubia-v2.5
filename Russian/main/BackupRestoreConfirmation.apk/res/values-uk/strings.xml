@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="backup_confirm_title">Повний бекап</string>
+  <string name="restore_confirm_title">Повне відновлення</string>
+  <string name="backup_confirm_text">Зроблений запит з вашого комп\'ютера для резервного копіювання даних.\n\nЯкщо ви не замовляли дану операцію - не погоджуйтеся!</string>
+  <string name="allow_backup_button_label">Бекап моїх даних</string>
+  <string name="deny_backup_button_label">Не створювати бекап</string>
+  <string name="restore_confirm_text">Зроблений запит з вашого комп\'ютера для відновлення даних.\n\nЯкщо ви не замовляли дану операцію - не погоджуйтеся!</string>
+  <string name="allow_restore_button_label">Відновити мої дані</string>
+  <string name="deny_restore_button_label">Не відновлювати</string>
+  <string name="current_password_text">Введіть ваш поточний пароль:</string>
+  <string name="device_encryption_restore_text">Введіть ваш пароль шифрування.</string>
+  <string name="device_encryption_backup_text">Введіть ваш пароль для шифрування. Він буде використовуватися як стандартний.</string>
+  <string name="backup_enc_password_text">Введіть пароль, який використовується для шифрування повного резервного копіювання даних. Якщо залишити порожнім, буде використовуватися ваш стандартний пароль резервного копіювання:</string>
+  <string name="backup_enc_password_optional">Якщо ви хочете зашифрувати дані, введіть пароль:</string>
+  <string name="restore_enc_password_text">Якщо дані зашифровані, введіть пароль:</string>
+  <string name="toast_backup_started">Створення бекапа ...</string>
+  <string name="toast_backup_ended">Бекап створений</string>
+  <string name="toast_restore_started">Розпочато відновлення...</string>
+  <string name="toast_restore_ended">Відновлення завершено</string>
+  <string name="toast_timeout">Вийшов час очікування</string>
+  <string name="toast_wrong_password">Невірний пароль</string>
+</resources>

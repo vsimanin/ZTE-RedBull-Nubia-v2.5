@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Вітаю, LogRedirection!</string>
+    <string name="app_name">LogRedirector</string>
+    <string name="redirect">Перенаправлення журналу</string>
+    <string name="redirect_on">Вкл.</string>
+    <string name="redirect_off">Викл.</string>
+    <string name="format">Формат журналу</string>
+    <string name="buffertype">Тип журналу</string>
+    <string name="logpath">Шлях до журналу</string>
+    <string name="dellogs">Видалити файли журналу</string>
+    <string name="cleanbuffer">Очистити буфер журналу</string>
+    <string name="connectservicefail">"Не вдається підключитися службі журналу"</string>
+    <string name="copylogfiles">Перемістити журнал на SD-карту</string>
+    <string name="startLogging">Початок</string>
+    <string name="stopLogging">Стоп</string>
+    <string name="cleanLogFile">Очистити</string>
+</resources>

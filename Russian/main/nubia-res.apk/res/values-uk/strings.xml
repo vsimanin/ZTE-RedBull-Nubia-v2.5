@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nubia_res_app_name">Загальні ресурси Nubia</string>
+    <string name="nubia_res_capital_on">УВМК.</string>
+    <string name="nubia_res_capital_off">ВИМК.</string>
+    <string name="nubia_res_action_menu_overflow_description">Додаткові налаштування</string>
+    <string name="nubia_res_media_route_button_content_description">Вихід медіа</string>
+    <string name="nubia_res_candidates_style"><u>кандидати</u></string>
+    <string name="nubia_res_ok">ОК</string>
+    <string name="nubia_res_cancel">Скасувати</string>
+    <string name="nubia_res_yes">ОК</string>
+    <string name="nubia_res_no">Скасувати</string>
+    <string name="nubia_res_paste">Вставити</string>
+    <string name="nubia_res_number_picker_increment_button">Збільшити</string>
+    <string name="nubia_res_number_picker_decrement_button">Зменшити</string>
+    <string name="nubia_res_number_picker_increment_scroll_mode">%s натіснить та утримуйте.</string>
+    <string name="nubia_res_number_picker_increment_scroll_action">Зсуньте вгору для збільшення та вниз для зменшення.</string>
+    <string name="nubia_res_time_picker_increment_minute_button">Збільшити хвилину</string>
+    <string name="nubia_res_time_picker_decrement_minute_button">Зменшити хвилину</string>
+    <string name="nubia_res_time_picker_increment_hour_button">Збільшити годину</string>
+    <string name="nubia_res_time_picker_decrement_hour_button">Зменшити годину</string>
+    <string name="nubia_res_time_picker_increment_set_pm_button">Встановити PM</string>
+    <string name="nubia_res_time_picker_decrement_set_am_button">Встановити AM</string>
+    <string name="nubia_res_date_picker_increment_month_button">Збільшити місяць</string>
+    <string name="nubia_res_date_picker_decrement_month_button">Зменшити місяць</string>
+    <string name="nubia_res_date_picker_increment_day_button">Збільшити день</string>
+    <string name="nubia_res_date_picker_decrement_day_button">Зменшити день</string>
+    <string name="nubia_res_date_picker_increment_year_button">Збільшити рік</string>
+    <string name="nubia_res_date_picker_decrement_year_button">Зменшити рік</string>
+    <string name="nubia_res_time_picker_dialog_title">Встановити час</string>
+    <string name="nubia_res_date_picker_dialog_title">Встановити дату</string>
+    <string name="nubia_res_date_time_set">Встановити</string>
+    <string name="nubia_res_date_time_done">Готово</string>
+    <string name="nubia_res_time_picker_separator">:</string>
+    <string name="nubia_res_time_picker_separator_m" />
+    <string name="nubia_res_date_picker_separator_year" />
+    <string name="nubia_res_date_picker_separator_month" />
+    <string name="nubia_res_date_picker_separator_day" />
+    <string name="nubia_common_label">cn.nubia</string>
+</resources>

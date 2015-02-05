@@ -326,7 +326,7 @@
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
-    <string name="unlock_set_unlock_none_title">Слайдер</string>
+    <string name="unlock_set_unlock_none_title">Свайп</string>
     <string name="unlock_set_unlock_none_summary">Защита отключена</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
@@ -338,7 +338,7 @@
     <string name="unlock_set_unlock_password_summary">Высокий уровень защиты</string>
     <string name="unlock_set_unlock_disabled_summary">Запрещено администратором, политикой шифрования или хранилищем учетных данных</string>
     <string name="unlock_set_unlock_mode_off">Нет</string>
-    <string name="unlock_set_unlock_mode_none">Для разблокировки экрана сдвиньте слайдер</string>
+    <string name="unlock_set_unlock_mode_none">Свайп вверх</string>
     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
     <string name="unlock_set_unlock_mode_pattern">Графический ключ</string>
     <string name="unlock_set_unlock_mode_pin">PIN-код</string>
@@ -370,7 +370,7 @@
     <string name="lock_setup">Блокировка настроена.</string>
     <string name="device_admin_title">Администрирование устройства</string>
     <string name="manage_device_admin">Администраторы устройства</string>
-    <string name="manage_device_admin_summary">Просмотр или отключение администраторов устройств</string>
+    <string name="manage_device_admin_summary">Управление администраторами устройства</string>
     <string name="manage_notification_access">Доступ к уведомлениям</string>
     <string name="manage_notification_access_summary_zero">Приложения не могут просматривать уведомления</string>
     <string name="no_notification_listeners">Службы просмотра уведомлений не установлены.</string>
@@ -682,7 +682,7 @@
     <string name="all_volume_title">Громкость</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость звонка</string>
-    <string name="vibrate_in_silent_title">Вибросигнал в беззвучном режиме</string>
+    <string name="vibrate_in_silent_title">Вибрация в беззвучном режиме</string>
     <string name="notification_sound_title">Уведомление</string>
     <string name="notification_pulse_title">Индикатор событий</string>
     <string name="incoming_call_volume_title">Мелодия</string>
@@ -706,7 +706,7 @@
     <string name="volume_media_mute">Выключить музыку и прочее медиа</string>
     <string name="volume_notification_mute">Выключить уведомления</string>
     <string name="volume_alarm_mute">Выключить будильники</string>
-    <string name="vibrate_when_ringing_title">Вибросигнал при вызове</string>
+    <string name="vibrate_when_ringing_title">Вибрация при вызове</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -946,10 +946,10 @@
     <string name="tether_settings_title_all">Режим модема</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">USB-модем</string>
-    <string name="usb_tethering_available_subtext">USB-связь установлена, установите флажок для подключения</string>
+    <string name="usb_tethering_available_subtext">USB-подключение установлено, можно использовать</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_storage_active_subtext">Невозможно подключиться при использовании USB-накопителя</string>
-    <string name="usb_tethering_unavailable_subtext">USB-подключения не обнаружено</string>
+    <string name="usb_tethering_unavailable_subtext">USB-подключение отсутствует</string>
     <string name="usb_tethering_errored_subtext">Ошибка подключения USB</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
     <string name="bluetooth_tethering_available_subtext">Включен</string>
@@ -957,7 +957,7 @@
     <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение телефона используется %1$d устройствами</string>
     <string name="bluetooth_tethering_off_subtext">Выключен</string>
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
-    <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
+    <string name="bluetooth_tethering_overflow_error">Максимум подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="network_settings_title">Мобильная сеть</string>
@@ -1062,9 +1062,9 @@
     <string name="applications_settings_header">Настройки приложения</string>
     <string name="install_applications">Неизвестные источники</string>
     <string name="install_unknown_applications">Разрешить установку приложений из неизвестных источников</string>
-    <string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений.</string>
+    <string name="install_all_warning">Ваши личные данные и данные телефона станут более уязвимы для атак приложениями из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанную с использованием таких приложений?</string>
     <string name="verify_applications">Проверять приложения</string>
-    <string name="verify_applications_summary">Запрещать установку приложений, которые могут нанести вред устройству, или предупреждать о них</string>
+    <string name="verify_applications_summary">Запрещать установку приложений, которые могут нанести вред устройству или предупреждать о них</string>
     <string name="advanced_settings">Расширенные настройки</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
     <string name="application_info_label">О приложении</string>
@@ -1098,8 +1098,8 @@
     <string name="ask_compatibility">Спрашивать при запуске</string>
     <string name="enable_compatibility">Масштабировать приложения</string>
     <string name="unknown">Неизвестно</string>
-    <string name="sort_order_alpha">Упорядочить по именам</string>
-    <string name="sort_order_size">Упорядочить по размеру</string>
+    <string name="sort_order_alpha">По имени</string>
+    <string name="sort_order_size">По размеру</string>
     <string name="show_running_services">Показать активные службы</string>
     <string name="show_background_processes">Показать процессы в кэше</string>
     <string name="reset_app_preferences">Сбросить настройки</string>
@@ -1185,7 +1185,7 @@
     <string name="service_client_name">%1$s</string>
     <string name="service_background_processes">%1$s свободно</string>
     <string name="service_foreground_processes">%1$s занято</string>
-    <string name="memory">ОЗУ</string>
+    <string name="memory">Оперативная память</string>
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="running_process_item_removed_user_label">Удаление пользователя…</string>
@@ -1351,7 +1351,7 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
+"<li><ul>" панорамировать – проведите пальцами по экрану;
 "<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
@@ -1520,8 +1520,8 @@
     <string name="process_stats_type_foreground">Активные</string>
     <string name="process_stats_type_cached">Кешированные</string>
     <string name="process_stats_memory_status">Уровень свободной памяти: %1$s</string>
-    <string name="process_stats_avg_ram_use">Использование оперативной памяти (среднее значение)</string>
-    <string name="process_stats_max_ram_use">Использование оперативной памяти (максимальное значение)</string>
+    <string name="process_stats_avg_ram_use">Использование ОЗУ (среднее значение)</string>
+    <string name="process_stats_max_ram_use">Использование ОЗУ (максимальное значение)</string>
     <string name="process_stats_run_time">Время работы</string>
     <string name="services_subtitle">Сервисы</string>
     <string name="menu_proc_stats_duration">Период</string>
@@ -2250,15 +2250,16 @@ It не стирать :
     <string name="automatical_summary">Установите язык в соответствии с SIM / USIM-картой</string>
     <string name="pri_version">PRI версия</string>
     <string name="silent_mode_title">Беззвучный режим</string>
-    <string name="volume_system_description">Система (получение фото, захват экрана, блокировка экрана, касание, и т.д.)</string>
+	<string name="sound_category_vibrate_title">Вибрация</string>	
+    <string name="volume_system_description">Система (камера, скриншот, блокировка, нажатие и т.д.)</string>
     <string name="volume_bluetooth_sco_description">Bluetooth</string>
     <string name="volume_system_mute">Отключение системы</string>
     <string name="volume_bluetooth_sco_mute">Отключение Bluetooth</string>
     <string name="notification_panel_title">Строка состояния и уведомления</string>
     <string name="category_screen_title">Экран</string>
     <string name="lockscreen_title">Фото на экране блокировки</string>
-    <string name="led_app_msg_title">Уведомление смс</string>
-    <string name="led_app_msg_summary">Вкл</string>
+    <string name="led_app_msg_title">Новое SMS</string>
+    <string name="led_app_msg_summary">LED-индикация при входящем SMS</string>
     <string name="led_brightness">Автоматическая яркость</string>
     <string name="nubia_font_size_example">Nubia</string>
     <string name="font_size_small">Маленький</string>
@@ -2280,17 +2281,17 @@ It не стирать :
     <string name="nb_lockpassword_choose_your_password_header">Введите пароль</string>
     <string name="nb_lockpassword_confirm_your_password_header">Введите пароль снова</string>
     <string name="nb_lockpassword_confirm_your_pin_header">Введите пароль снова</string>
-    <string name="security_and_location_settings_title">Безопасность и расположение</string>
+    <string name="security_and_location_settings_title">Безопасность и местоположение</string>
     <string name="location_category_title">Местоположение</string>
     <string name="location_preference_title">Служба местоположения</string>
     <string name="install_settings">Мастер установки</string>
     <string name="device_admin_and_credentials_title">Разрешения и учетные данные</string>
-    <string name="reduce_dynamic_effect_title">Уменьшить динамический эффект.</string>
-    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI，включая эффект параллакса иконки и уведомления</string>
+    <string name="reduce_dynamic_effect_title">Уменьшить динамические эффекты</string>
+    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI, включая эффект параллакса иконки и уведомления</string>
     <string name="no_account">Нет аккаунтов</string>
     <string name="no_vpn">Нет VPN</string>
     <string name="feature_settings">Дополнительные настройки</string>
-    <string name="smartface_settings">Смарт чехол</string>
+    <string name="smartface_settings">Настройки чехла</string>
     <string name="suspension_settings">Операция приостановки</string>
     <string name="content_preview_title">Предпросмотр содержаний</string>
     <string name="content_preview_summary">Наведите палец над экраном, чтобы просмотреть детали содержания</string>
@@ -2305,32 +2306,32 @@ It не стирать :
     <string name="quick_communication_info1">При пропущенном вызове, &lt;br>&lt;b>удерживайте&lt;/b>палец над иконкой вызова &lt;/br>&lt;b>для предпросмотра&lt;/b> и быстрого набора</string>
     <string name="quick_communication_info2">&lt;br>&lt;b>Удерживайте&lt;/b>палец над списком контактов, вызовов и сообщений&lt;/br> для быстрого вызова и отправки СМС</string>
     <string name="split_screen_settings">Разделение экрана</string>
-    <string name="split_screen_info">Разделить экран на две части, чтобы увидеть два приложения одновременно</string>
+    <string name="split_screen_info">Разделите экран на две части, чтобы использовать два приложения одновременно</string>
     <string name="split_screen_manual">Включить вручную разделение экрана</string>
     <string name="split_screen_slide_up_titile">Жест для запуска разделения экрана</string>
     <string name="split_screen_slide_up_summary">Проведите вверх от нижней части экрана, чтобы запустить разделение экрана</string>
     <string name="split_screen_slide_up_info">Когда режим разделения экрана включен, вы можете &lt;font_size>провести &lt;/font_size>от нижней части экрана, чтобы &lt;font_size>запустить разделение экрана &lt;/font_size></string>
     <string name="split_screen_mode_title">Режим разделения экрана</string>
-    <string name="split_screen_mode_summary">Режим разделения экрана включен и экран разделен на две части; вы можете использовать жест Swype для разделения экрана.</string>
-    <string name="bottom_key_definition_title">Настройки нижних клавиш</string>
-    <string name="bottom_key_definition_summary">Поменять местами клавиши Меню и Возврат</string>
-    <string name="layout_one">Вариант один</string>
-    <string name="layout_two">Вариант два</string>
+    <string name="split_screen_mode_summary">Разделение экрана на две части; Вы можете использовать жест Swype для разделения экрана.</string>
+    <string name="bottom_key_definition_title">Настройка нижних клавиш</string>
+    <string name="bottom_key_definition_summary">Поменять местами клавиши Меню и Назад</string>
+    <string name="layout_one">Вариант 1</string>
+    <string name="layout_two">Вариант 2</string>
     <string name="bottom_key_menu">Меню</string>
     <string name="bottom_key_home">Домой</string>
     <string name="bottom_key_back">Назад</string>
     <string name="more_settings">Дополнительно</string>
     <string name="hardware_version">Версия телефона</string>
     <string name="nubia_version">Версия интерфейса Nubia</string>
-    <string name="power_show_as_percentage">Процент батареи</string>
+    <string name="power_show_as_percentage">Процент заряда</string>
     <string name="battery_alert">Предупреждение батареи</string>
     <string name="battery_alert_summary">Напомнить зарядить на ночь, если уровень снизился более чем на 40%</string>
-    <string name="agps_settings_title">AGPS Настройки</string>
+    <string name="agps_settings_title">A-GPS настройки</string>
     <string name="prefer_xtra_title">Предпочтительнее XTRA</string>
-    <string name="prefer_xtra_summaryOn">Сократить время позиционирования, вызывать небольшое использование данных</string>
+    <string name="prefer_xtra_summaryOn">Сократить время позиционирования, вызывая небольшое использование трафика</string>
     <string name="prefer_xtra_summaryOff">Позволяет повысить производительность GPS</string>
     <string name="position_mode_section_title">Режим позиционирования</string>
-    <string name="position_mode_title">Режим позиционирования AGPS</string>
+    <string name="position_mode_title">Режим позиционирования A-GPS</string>
     <string name="select_position_mode_title">Выбрать режим позиционирования</string>
     <string name="supl_settings">Настройки SUPL</string>
     <string name="supl_server">Сервер SUPL</string>
@@ -2423,32 +2424,34 @@ It не стирать :
     <string name="change_primary_or_not_message">Подвердите изменение основного хранилища?</string>
     <string name="change_primary_detail">Основное хранилище будет изменено после перезагрузки. Существующие данные приложений могут быть утеряны. Может потребоваться переустановка приложений.</string>
     <string name="confirm_reboot">Перезагрузка</string>
-    <string name="external_as_primary_off_message">Разрешить выбор при наличии SD карты</string>
+    <string name="external_as_primary_off_message">Разрешить выбор при наличии SD-карты</string>
     <string name="filter_apps_oninternal">Встроенная карта</string>
     <string name="move_app_to_internal_storage">Перенести на встроенную карту</string>
     <string name="additional_bootanimation_info_title">Информация о загрузочной анимации</string>
     <string name="insert_erro">Ошибка</string>
     <string name="contacts_app_exist">Убедитесь в наличии приложения Контакты!</string>
+    <string name="special_thank">Благодарности</string>
+    <string name="hornor_test_number">Группа тестирования nubia ROM</string>
     <string name="font_size_example">"
-Это пример теста на размер шрифта"</string>
+Это пример размера шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
     <string name="font_size_ok">OK</string>
     <string name="summary_font_size_v5">Установки затронут телефон, сообщения, контакты и настройки</string>
     <string name="font_size_note">Изменится размер шрифта в телефоне, сообщениях, контактах и настройках</string>
     <string name="led_light_title">Индикация событий</string>
     <string name="led_charge_title">Зарядка</string>
-    <string name="led_charge_summary">Подсветка при зарядке</string>
+    <string name="led_charge_summary">LED-индикация при зарядке</string>
     <string name="led_battery_low_title">Низкий уровень заряда батареи</string>
-    <string name="led_battery_low_summary">Подсветка активности при низком уровне заряда</string>
-    <string name="led_event_miss_title">Пропуск события</string>
-    <string name="led_event_miss_summary">Подсветка при пропущенном вызове или сообщении</string>
-    <string name="led_all_on">Подсветка при зарядке, низком уровне заряда и пропущенном событии</string>
-    <string name="led_charge_battery_low_on">Подсветка при зарядке и низком уровне заряда</string>
-    <string name="led_charge_event_miss_on">Подсветка при зарядке и пропущенном событии</string>
-    <string name="led_battery_low_event_miss_on">Подстветка при низком уровне заряда и пропущенном событии</string>
-    <string name="led_charge_on">Подсветка активности при зарядке</string>
-    <string name="led_battery_low_on">Подсветка при низком уровне заряда</string>
-    <string name="led_event_miss_on">Подсветка при пропущенном событии</string>
+    <string name="led_battery_low_summary">LED-индикация при низком уровне заряда</string>
+    <string name="led_event_miss_title">Пропущенные события</string>
+    <string name="led_event_miss_summary">LED-индикация при пропущенном вызове или сообщении</string>
+    <string name="led_all_on">LED-индикация при зарядке, низком уровне заряда и пропущенном событии</string>
+    <string name="led_charge_battery_low_on">LED-индикация при зарядке и низком уровне заряда</string>
+    <string name="led_charge_event_miss_on">LED-индикация при зарядке и пропущенном событии</string>
+    <string name="led_battery_low_event_miss_on">LED-индикация при низком уровне заряда и пропущенном событии</string>
+    <string name="led_charge_on">LED-индикация при зарядке</string>
+    <string name="led_battery_low_on">LED-индикация при низком уровне заряда</string>
+    <string name="led_event_miss_on">LED-индикация при пропущенном событии</string>
     <string name="led_all_off">Выкл</string>
     <string name="image_enhance_title">Профили изображения</string>
     <string name="image_enhance_settings">Профили</string>
@@ -2522,7 +2525,7 @@ It не стирать :
     <string name="sim_card_1">SIM-карта 1</string>
     <string name="sim_card_2">SIM-карта 2</string>
     <string name="capture_screen_title">Снимок экрана</string>
-    <string name="capture_screen_summary">Нажмите клавишу питания и клавишу громкости, чтобы сделать снимок.</string>
+    <string name="capture_screen_summary">Нажмите кнопку уменьшения громкости и питания, чтобы сделать снимок.</string>
     <string name="one_key_wps">Включение WPS одним нажатием</string>
     <string name="app_name">BlueTab Man</string>
     <string name="service_name">BlueTab Man услуги</string>
@@ -2563,8 +2566,8 @@ It не стирать :
     <string name="phonestorage_data_size_label">Память телефона</string>
     <string name="wifi_scanning">Доступные точки доступа</string>
     <string name="wifi_display_dialog">Следует включить Wi-Fi, чтобы использовать Wi-Fi проектор. Включить сейчас?</string>
-    <string name="wifi_display_notice">* Если устройство не поддерживает Wi-Fi проектор, используйте беспроводной адаптер Nubia, чтобы подключить проекционный экран.</string>
-    <string name="wifi_display_empty">Включите Wi-Fi проектор для соединения с телевизором поддерживающим WLAN проектор. После подключения, видео/аудио контент вашего телефона будет отображаться на подключенном устройстве.</string>
+    <string name="wifi_display_notice">* Если устройство не поддерживает функцию Беспроводной дисплей, используйте наш аксессуар Nubia для видео-трансляции.</string>
+    <string name="wifi_display_empty">Включите Wi-Fi проектор для соединения с устройством поддерживающим функцию Беспроводной дисплей. После подключения, видео/аудио контент вашего телефона будет отображаться на экране устройства.</string>
     <string name="sdcard_format_text">Форматировать SD-карту</string>
     <string name="storage_format_text">Очистить память</string>
     <string name="app_format_text">Удалить приложения</string>
@@ -2577,7 +2580,7 @@ It не стирать :
     <string name="storage_format_summary">Удаление всех данных с внутренней памяти, таких как музыка и фото</string>
     <string name="app_format_summary">Удалить установленные приложения</string>
     <string name="wifi_display_wps_option_setup">WPS</string>
-    <string name="default_data_summary">Использовать передачу данных для %1$s</string>
+    <string name="default_data_summary">Использовать передачу данных %1$s</string>
     <string name="erase_internal_storage">Очистить внутреннюю память</string>
     <string name="erase_internal_storage_description">Удалить музыку, фото, видео и прочее</string>
     <string name="wifi_menu_wps_pbc_summary">Пожалуйста, убедитесь, что беспроводной маршрутизатор поддерживает WPS</string>
@@ -2602,6 +2605,7 @@ It не стирать :
     <string name="wifi_check_addnetwork_message">"Не найдено сетей поблизости
 %1$s"</string>
     <string name="wifi_check_addnetwork_working">Добавлена сеть %1$s</string>
+    <string name="wifi_cert_mamg_title">Управление сертификатами</string>
     <string name="wifi_display_resolution_option">Разрешения</string>
     <string name="wfd_option_qr_code">QR код</string>
     <string name="wfd_option_settings">Настройки</string>
@@ -2634,10 +2638,10 @@ It не стирать :
     <string name="wfd_sink_summary">Принимать управление от проектора</string>
     <string name="wifi_display_manual_title">Руководство пользователя</string>
     <string name="wifidisplay_manual_01_01">Показать на ТВ</string>
-    <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Wi-Fi проектор и передавать графику и звук с мобильного телефона после подключения</string>
-    <string name="wifidisplay_manual_01_03">Если ваше устройство не поддерживает функцию Wi-Fi проектор, попробуйте наш аксессуар Nubia беспроводное устройство совместного доступа</string>
+    <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Беспроводной дисплей и передавать графику и звук с мобильного телефона после подключения</string>
+    <string name="wifidisplay_manual_01_03">Если ваше устройство не поддерживает функцию Беспроводной дисплей, попробуйте наш аксессуар Nubia для видео-трансляции</string>
     <string name="wifidisplay_manual_02_01">Смотрите вместе, играйте вместе</string>
-    <string name="wifidisplay_manual_02_02">Вы можете отображать контент вашего телефона на другом телефоне, и ваш телефон будет управляться</string>
+    <string name="wifidisplay_manual_02_02">Вы можете отображать контент вашего телефона на другом телефоне, и вашим телефоном можно будет управлять.</string>
     <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_01_no_nfc">Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_02">Сканирование двумерного кода другого телефона, чтобы подключиться</string>
@@ -2827,6 +2831,7 @@ It не стирать :
     <string name="service_white_list_confirm">Сбросить сервис "белый список"?</string>
     <string name="service_white_list_reset_dilaog_title">Сброс</string>
     <string name="service_white_list_title">Сервис "Белый список"</string>
+    <string name="data_usage_switch_sim_caution">Напомнить о переключении SIM при достижении предупреждения</string>
     <string name="sound_hifi_effect_title">Гарнитура HIFI</string>
     <string name="time_zone_auto_stub">Выберите часовой пояс</string>
     <string name="white_service_list_guide_tips">Вы можете установить службу в белый список, чтобы она не была закрыта по ошибке</string>

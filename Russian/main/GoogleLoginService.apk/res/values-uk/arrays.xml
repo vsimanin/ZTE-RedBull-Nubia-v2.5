@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Виберіть секретне питання</item>
+        <item>Номер першого телефону</item>
+        <item>Ім\'я друга дитинства</item>
+        <item>Ім\'я першого вчителя?</item>
+        <item>Ім\'я першого начальника</item>
+        <item>Номер першого автомобіля</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>ненадійний</item>
+        <item>відносно надійний</item>
+        <item>цілком надійний</item>
+        <item>надійний</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Чоловічий</item>
+        <item>Жіночий</item>
+        <item>Не вказаний</item>
+    </string-array>
+</resources>
